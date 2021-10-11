@@ -1,0 +1,24 @@
+autopep8==1.5.5
+bokeh==2.3.2
+branca==0.4.2
+esda==2.3.6
+Fiona==1.8.18
+folium==0.12.1
+geopandas @ git+git://github.com/geopandas/geopandas.git@0d38f10a9507bba80ed23b91c697a74fe95250cd
+itables==0.3.0
+libpysal==4.4.0
+mapclassify==2.4.2
+matplotlib==3.3.3
+natsort==7.1.1
+numpy==1.20.1
+pandas==1.2.1
+pandas-bokeh==0.5.5
+pivottablejs==0.9.0
+plotly==4.14.3
+pysal==2.4.0
+scikit-learn==0.24.1
+scipy==1.6.0
+seaborn==0.11.1
+Shapely==1.7.1
+shiboken2==5.15.2
+splot==1.1.3
