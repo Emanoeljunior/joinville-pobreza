@@ -1,0 +1,3872 @@
+[
+    {"id":"420910205000001",
+        "total_dom": 210,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000002",
+        "total_dom": 206,
+        "dom_pobreza": 1,
+        "porcentagem": 0.48543689320388345
+    },
+    {"id":"420910205000003",
+        "total_dom": 230,
+        "dom_pobreza": 2,
+        "porcentagem": 0.8695652173913043
+    },
+    {"id":"420910205000004",
+        "total_dom": 200,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5
+    },
+    {"id":"420910205000005",
+        "total_dom": 248,
+        "dom_pobreza": 4,
+        "porcentagem": 1.6129032258064515
+    },
+    {"id":"420910205000006",
+        "total_dom": 80,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000007",
+        "total_dom": 195,
+        "dom_pobreza": 3,
+        "porcentagem": 1.5384615384615385
+    },
+    {"id":"420910205000008",
+        "total_dom": 133,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7518796992481203
+    },
+    {"id":"420910205000009",
+        "total_dom": 244,
+        "dom_pobreza": 1,
+        "porcentagem": 0.4098360655737705
+    },
+    {"id":"420910205000010",
+        "total_dom": 92,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000011",
+        "total_dom": 114,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000012",
+        "total_dom": 104,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000013",
+        "total_dom": 145,
+        "dom_pobreza": 1,
+        "porcentagem": 0.6896551724137931
+    },
+    {"id":"420910205000014",
+        "total_dom": 320,
+        "dom_pobreza": 5,
+        "porcentagem": 1.5625
+    },
+    {"id":"420910205000015",
+        "total_dom": 115,
+        "dom_pobreza": 2,
+        "porcentagem": 1.7391304347826086
+    },
+    {"id":"420910205000016",
+        "total_dom": 167,
+        "dom_pobreza": 5,
+        "porcentagem": 2.9940119760479043
+    },
+    {"id":"420910205000017",
+        "total_dom": 180,
+        "dom_pobreza": 7,
+        "porcentagem": 3.888888888888889
+    },
+    {"id":"420910205000018",
+        "total_dom": 152,
+        "dom_pobreza": 2,
+        "porcentagem": 1.3157894736842104
+    },
+    {"id":"420910205000019",
+        "total_dom": 119,
+        "dom_pobreza": 7,
+        "porcentagem": 5.88235294117647
+    },
+    {"id":"420910205000020",
+        "total_dom": 272,
+        "dom_pobreza": 9,
+        "porcentagem": 3.308823529411765
+    },
+    {"id":"420910205000021",
+        "total_dom": 138,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7246376811594203
+    },
+    {"id":"420910205000022",
+        "total_dom": 130,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7692307692307693
+    },
+    {"id":"420910205000023",
+        "total_dom": 243,
+        "dom_pobreza": 2,
+        "porcentagem": 0.823045267489712
+    },
+    {"id":"420910205000024",
+        "total_dom": 200,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5
+    },
+    {"id":"420910205000025",
+        "total_dom": 133,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7518796992481203
+    },
+    {"id":"420910205000026",
+        "total_dom": 252,
+        "dom_pobreza": 1,
+        "porcentagem": 0.3968253968253968
+    },
+    {"id":"420910205000027",
+        "total_dom": 232,
+        "dom_pobreza": 1,
+        "porcentagem": 0.43103448275862066
+    },
+    {"id":"420910205000028",
+        "total_dom": 78,
+        "dom_pobreza": 2,
+        "porcentagem": 2.564102564102564
+    },
+    {"id":"420910205000029",
+        "total_dom": 176,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1363636363636365
+    },
+    {"id":"420910205000030",
+        "total_dom": 162,
+        "dom_pobreza": 2,
+        "porcentagem": 1.2345679012345678
+    },
+    {"id":"420910205000031",
+        "total_dom": 175,
+        "dom_pobreza": 3,
+        "porcentagem": 1.7142857142857144
+    },
+    {"id":"420910205000032",
+        "total_dom": 209,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000033",
+        "total_dom": 212,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000034",
+        "total_dom": 236,
+        "dom_pobreza": 5,
+        "porcentagem": 2.11864406779661
+    },
+    {"id":"420910205000035",
+        "total_dom": 264,
+        "dom_pobreza": 4,
+        "porcentagem": 1.5151515151515151
+    },
+    {"id":"420910205000036",
+        "total_dom": 185,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5405405405405406
+    },
+    {"id":"420910205000037",
+        "total_dom": 180,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1111111111111112
+    },
+    {"id":"420910205000038",
+        "total_dom": 145,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000039",
+        "total_dom": 228,
+        "dom_pobreza": 3,
+        "porcentagem": 1.3157894736842104
+    },
+    {"id":"420910205000040",
+        "total_dom": 195,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000041",
+        "total_dom": 160,
+        "dom_pobreza": 5,
+        "porcentagem": 3.125
+    },
+    {"id":"420910205000042",
+        "total_dom": 155,
+        "dom_pobreza": 5,
+        "porcentagem": 3.225806451612903
+    },
+    {"id":"420910205000043",
+        "total_dom": 279,
+        "dom_pobreza": 2,
+        "porcentagem": 0.7168458781362007
+    },
+    {"id":"420910205000044",
+        "total_dom": 187,
+        "dom_pobreza": 6,
+        "porcentagem": 3.2085561497326207
+    },
+    {"id":"420910205000045",
+        "total_dom": 300,
+        "dom_pobreza": 8,
+        "porcentagem": 2.666666666666667
+    },
+    {"id":"420910205000046",
+        "total_dom": 110,
+        "dom_pobreza": 1,
+        "porcentagem": 0.9090909090909091
+    },
+    {"id":"420910205000047",
+        "total_dom": 142,
+        "dom_pobreza": 3,
+        "porcentagem": 2.112676056338028
+    },
+    {"id":"420910205000048",
+        "total_dom": 184,
+        "dom_pobreza": 4,
+        "porcentagem": 2.1739130434782608
+    },
+    {"id":"420910205000049",
+        "total_dom": 142,
+        "dom_pobreza": 3,
+        "porcentagem": 2.112676056338028
+    },
+    {"id":"420910205000050",
+        "total_dom": 249,
+        "dom_pobreza": 7,
+        "porcentagem": 2.8112449799196786
+    },
+    {"id":"420910205000051",
+        "total_dom": 198,
+        "dom_pobreza": 10,
+        "porcentagem": 5.05050505050505
+    },
+    {"id":"420910205000052",
+        "total_dom": 224,
+        "dom_pobreza": 7,
+        "porcentagem": 3.125
+    },
+    {"id":"420910205000053",
+        "total_dom": 177,
+        "dom_pobreza": 6,
+        "porcentagem": 3.389830508474576
+    },
+    {"id":"420910205000054",
+        "total_dom": 187,
+        "dom_pobreza": 9,
+        "porcentagem": 4.81283422459893
+    },
+    {"id":"420910205000055",
+        "total_dom": 163,
+        "dom_pobreza": 4,
+        "porcentagem": 2.4539877300613497
+    },
+    {"id":"420910205000056",
+        "total_dom": 180,
+        "dom_pobreza": 7,
+        "porcentagem": 3.888888888888889
+    },
+    {"id":"420910205000057",
+        "total_dom": 149,
+        "dom_pobreza": 4,
+        "porcentagem": 2.684563758389262
+    },
+    {"id":"420910205000058",
+        "total_dom": 345,
+        "dom_pobreza": 10,
+        "porcentagem": 2.898550724637681
+    },
+    {"id":"420910205000059",
+        "total_dom": 204,
+        "dom_pobreza": 5,
+        "porcentagem": 2.450980392156863
+    },
+    {"id":"420910205000060",
+        "total_dom": 135,
+        "dom_pobreza": 7,
+        "porcentagem": 5.185185185185185
+    },
+    {"id":"420910205000061",
+        "total_dom": 139,
+        "dom_pobreza": 3,
+        "porcentagem": 2.158273381294964
+    },
+    {"id":"420910205000062",
+        "total_dom": 283,
+        "dom_pobreza": 4,
+        "porcentagem": 1.4134275618374559
+    },
+    {"id":"420910205000063",
+        "total_dom": 293,
+        "dom_pobreza": 10,
+        "porcentagem": 3.4129692832764507
+    },
+    {"id":"420910205000064",
+        "total_dom": 142,
+        "dom_pobreza": 6,
+        "porcentagem": 4.225352112676056
+    },
+    {"id":"420910205000065",
+        "total_dom": 252,
+        "dom_pobreza": 6,
+        "porcentagem": 2.380952380952381
+    },
+    {"id":"420910205000066",
+        "total_dom": 471,
+        "dom_pobreza": 8,
+        "porcentagem": 1.6985138004246285
+    },
+    {"id":"420910205000067",
+        "total_dom": 198,
+        "dom_pobreza": 8,
+        "porcentagem": 4.040404040404041
+    },
+    {"id":"420910205000068",
+        "total_dom": 191,
+        "dom_pobreza": 6,
+        "porcentagem": 3.1413612565445024
+    },
+    {"id":"420910205000069",
+        "total_dom": 198,
+        "dom_pobreza": 4,
+        "porcentagem": 2.0202020202020203
+    },
+    {"id":"420910205000070",
+        "total_dom": 238,
+        "dom_pobreza": 17,
+        "porcentagem": 7.142857142857142
+    },
+    {"id":"420910205000071",
+        "total_dom": 178,
+        "dom_pobreza": 11,
+        "porcentagem": 6.179775280898876
+    },
+    {"id":"420910205000072",
+        "total_dom": 294,
+        "dom_pobreza": 22,
+        "porcentagem": 7.482993197278912
+    },
+    {"id":"420910205000073",
+        "total_dom": 184,
+        "dom_pobreza": 14,
+        "porcentagem": 7.608695652173914
+    },
+    {"id":"420910205000074",
+        "total_dom": 248,
+        "dom_pobreza": 33,
+        "porcentagem": 13.306451612903224
+    },
+    {"id":"420910205000075",
+        "total_dom": 116,
+        "dom_pobreza": 20,
+        "porcentagem": 17.24137931034483
+    },
+    {"id":"420910205000076",
+        "total_dom": 179,
+        "dom_pobreza": 6,
+        "porcentagem": 3.35195530726257
+    },
+    {"id":"420910205000077",
+        "total_dom": 240,
+        "dom_pobreza": 15,
+        "porcentagem": 6.25
+    },
+    {"id":"420910205000078",
+        "total_dom": 261,
+        "dom_pobreza": 13,
+        "porcentagem": 4.980842911877394
+    },
+    {"id":"420910205000079",
+        "total_dom": 164,
+        "dom_pobreza": 8,
+        "porcentagem": 4.878048780487805
+    },
+    {"id":"420910205000080",
+        "total_dom": 224,
+        "dom_pobreza": 10,
+        "porcentagem": 4.464285714285714
+    },
+    {"id":"420910205000081",
+        "total_dom": 145,
+        "dom_pobreza": 9,
+        "porcentagem": 6.206896551724138
+    },
+    {"id":"420910205000082",
+        "total_dom": 296,
+        "dom_pobreza": 15,
+        "porcentagem": 5.0675675675675675
+    },
+    {"id":"420910205000083",
+        "total_dom": 144,
+        "dom_pobreza": 5,
+        "porcentagem": 3.4722222222222223
+    },
+    {"id":"420910205000084",
+        "total_dom": 111,
+        "dom_pobreza": 5,
+        "porcentagem": 4.504504504504505
+    },
+    {"id":"420910205000085",
+        "total_dom": 351,
+        "dom_pobreza": 35,
+        "porcentagem": 9.971509971509972
+    },
+    {"id":"420910205000086",
+        "total_dom": 390,
+        "dom_pobreza": 34,
+        "porcentagem": 8.717948717948717
+    },
+    {"id":"420910205000087",
+        "total_dom": 354,
+        "dom_pobreza": 37,
+        "porcentagem": 10.451977401129943
+    },
+    {"id":"420910205000088",
+        "total_dom": 182,
+        "dom_pobreza": 14,
+        "porcentagem": 7.6923076923076925
+    },
+    {"id":"420910205000089",
+        "total_dom": 232,
+        "dom_pobreza": 11,
+        "porcentagem": 4.741379310344827
+    },
+    {"id":"420910205000090",
+        "total_dom": 50,
+        "dom_pobreza": 3,
+        "porcentagem": 6.0
+    },
+    {"id":"420910205000091",
+        "total_dom": 218,
+        "dom_pobreza": 11,
+        "porcentagem": 5.045871559633028
+    },
+    {"id":"420910205000092",
+        "total_dom": 289,
+        "dom_pobreza": 43,
+        "porcentagem": 14.878892733564014
+    },
+    {"id":"420910205000093",
+        "total_dom": 266,
+        "dom_pobreza": 17,
+        "porcentagem": 6.390977443609022
+    },
+    {"id":"420910205000094",
+        "total_dom": 135,
+        "dom_pobreza": 9,
+        "porcentagem": 6.666666666666667
+    },
+    {"id":"420910205000095",
+        "total_dom": 331,
+        "dom_pobreza": 36,
+        "porcentagem": 10.876132930513595
+    },
+    {"id":"420910205000096",
+        "total_dom": 122,
+        "dom_pobreza": 19,
+        "porcentagem": 15.573770491803279
+    },
+    {"id":"420910205000097",
+        "total_dom": 336,
+        "dom_pobreza": 67,
+        "porcentagem": 19.940476190476193
+    },
+    {"id":"420910205000098",
+        "total_dom": 140,
+        "dom_pobreza": 12,
+        "porcentagem": 8.571428571428571
+    },
+    {"id":"420910205000099",
+        "total_dom": 269,
+        "dom_pobreza": 61,
+        "porcentagem": 22.676579925650557
+    },
+    {"id":"420910205000100",
+        "total_dom": 248,
+        "dom_pobreza": 33,
+        "porcentagem": 13.306451612903224
+    },
+    {"id":"420910205000101",
+        "total_dom": 144,
+        "dom_pobreza": 17,
+        "porcentagem": 11.805555555555555
+    },
+    {"id":"420910205000102",
+        "total_dom": 123,
+        "dom_pobreza": 10,
+        "porcentagem": 8.130081300813007
+    },
+    {"id":"420910205000103",
+        "total_dom": 38,
+        "dom_pobreza": 2,
+        "porcentagem": 5.263157894736842
+    },
+    {"id":"420910205000104",
+        "total_dom": 28,
+        "dom_pobreza": 3,
+        "porcentagem": 10.714285714285714
+    },
+    {"id":"420910205000105",
+        "total_dom": 32,
+        "dom_pobreza": 3,
+        "porcentagem": 9.375
+    },
+    {"id":"420910205000106",
+        "total_dom": 30,
+        "dom_pobreza": 2,
+        "porcentagem": 6.666666666666667
+    },
+    {"id":"420910205000107",
+        "total_dom": 188,
+        "dom_pobreza": 9,
+        "porcentagem": 4.787234042553192
+    },
+    {"id":"420910205000108",
+        "total_dom": 131,
+        "dom_pobreza": 14,
+        "porcentagem": 10.687022900763358
+    },
+    {"id":"420910205000109",
+        "total_dom": 140,
+        "dom_pobreza": 7,
+        "porcentagem": 5.0
+    },
+    {"id":"420910205000110",
+        "total_dom": 83,
+        "dom_pobreza": 1,
+        "porcentagem": 1.2048192771084338
+    },
+    {"id":"420910205000111",
+        "total_dom": 41,
+        "dom_pobreza": 3,
+        "porcentagem": 7.317073170731707
+    },
+    {"id":"420910205000112",
+        "total_dom": 20,
+        "dom_pobreza": 1,
+        "porcentagem": 5.0
+    },
+    {"id":"420910205000113",
+        "total_dom": 193,
+        "dom_pobreza": 22,
+        "porcentagem": 11.398963730569948
+    },
+    {"id":"420910205000114",
+        "total_dom": 299,
+        "dom_pobreza": 17,
+        "porcentagem": 5.68561872909699
+    },
+    {"id":"420910205000115",
+        "total_dom": 245,
+        "dom_pobreza": 11,
+        "porcentagem": 4.489795918367347
+    },
+    {"id":"420910205000116",
+        "total_dom": 294,
+        "dom_pobreza": 12,
+        "porcentagem": 4.081632653061225
+    },
+    {"id":"420910205000117",
+        "total_dom": 218,
+        "dom_pobreza": 25,
+        "porcentagem": 11.46788990825688
+    },
+    {"id":"420910205000118",
+        "total_dom": 239,
+        "dom_pobreza": 24,
+        "porcentagem": 10.0418410041841
+    },
+    {"id":"420910205000119",
+        "total_dom": 365,
+        "dom_pobreza": 34,
+        "porcentagem": 9.315068493150685
+    },
+    {"id":"420910205000120",
+        "total_dom": 389,
+        "dom_pobreza": 35,
+        "porcentagem": 8.997429305912597
+    },
+    {"id":"420910205000121",
+        "total_dom": 182,
+        "dom_pobreza": 26,
+        "porcentagem": 14.285714285714285
+    },
+    {"id":"420910205000122",
+        "total_dom": 51,
+        "dom_pobreza": 5,
+        "porcentagem": 9.803921568627452
+    },
+    {"id":"420910205000123",
+        "total_dom": 249,
+        "dom_pobreza": 27,
+        "porcentagem": 10.843373493975903
+    },
+    {"id":"420910205000124",
+        "total_dom": 378,
+        "dom_pobreza": 26,
+        "porcentagem": 6.878306878306878
+    },
+    {"id":"420910205000125",
+        "total_dom": 276,
+        "dom_pobreza": 17,
+        "porcentagem": 6.159420289855073
+    },
+    {"id":"420910205000126",
+        "total_dom": 170,
+        "dom_pobreza": 10,
+        "porcentagem": 5.88235294117647
+    },
+    {"id":"420910205000127",
+        "total_dom": 349,
+        "dom_pobreza": 22,
+        "porcentagem": 6.303724928366762
+    },
+    {"id":"420910205000128",
+        "total_dom": 363,
+        "dom_pobreza": 42,
+        "porcentagem": 11.570247933884298
+    },
+    {"id":"420910205000129",
+        "total_dom": 125,
+        "dom_pobreza": 15,
+        "porcentagem": 12.0
+    },
+    {"id":"420910205000130",
+        "total_dom": 176,
+        "dom_pobreza": 9,
+        "porcentagem": 5.113636363636364
+    },
+    {"id":"420910205000131",
+        "total_dom": 207,
+        "dom_pobreza": 14,
+        "porcentagem": 6.763285024154589
+    },
+    {"id":"420910205000132",
+        "total_dom": 294,
+        "dom_pobreza": 30,
+        "porcentagem": 10.204081632653061
+    },
+    {"id":"420910205000133",
+        "total_dom": 318,
+        "dom_pobreza": 39,
+        "porcentagem": 12.264150943396226
+    },
+    {"id":"420910205000134",
+        "total_dom": 4,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000135",
+        "total_dom": 362,
+        "dom_pobreza": 41,
+        "porcentagem": 11.32596685082873
+    },
+    {"id":"420910205000136",
+        "total_dom": 113,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000137",
+        "total_dom": 282,
+        "dom_pobreza": 39,
+        "porcentagem": 13.829787234042554
+    },
+    {"id":"420910205000138",
+        "total_dom": 129,
+        "dom_pobreza": 7,
+        "porcentagem": 5.426356589147287
+    },
+    {"id":"420910205000139",
+        "total_dom": 246,
+        "dom_pobreza": 20,
+        "porcentagem": 8.130081300813007
+    },
+    {"id":"420910205000140",
+        "total_dom": 352,
+        "dom_pobreza": 13,
+        "porcentagem": 3.6931818181818183
+    },
+    {"id":"420910205000141",
+        "total_dom": 301,
+        "dom_pobreza": 29,
+        "porcentagem": 9.634551495016613
+    },
+    {"id":"420910205000142",
+        "total_dom": 339,
+        "dom_pobreza": 19,
+        "porcentagem": 5.604719764011799
+    },
+    {"id":"420910205000143",
+        "total_dom": 299,
+        "dom_pobreza": 26,
+        "porcentagem": 8.695652173913043
+    },
+    {"id":"420910205000144",
+        "total_dom": 325,
+        "dom_pobreza": 45,
+        "porcentagem": 13.846153846153847
+    },
+    {"id":"420910205000145",
+        "total_dom": 271,
+        "dom_pobreza": 24,
+        "porcentagem": 8.856088560885608
+    },
+    {"id":"420910205000146",
+        "total_dom": 168,
+        "dom_pobreza": 12,
+        "porcentagem": 7.142857142857142
+    },
+    {"id":"420910205000147",
+        "total_dom": 2,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000148",
+        "total_dom": 270,
+        "dom_pobreza": 20,
+        "porcentagem": 7.4074074074074066
+    },
+    {"id":"420910205000149",
+        "total_dom": 187,
+        "dom_pobreza": 15,
+        "porcentagem": 8.02139037433155
+    },
+    {"id":"420910205000150",
+        "total_dom": 182,
+        "dom_pobreza": 22,
+        "porcentagem": 12.087912087912088
+    },
+    {"id":"420910205000151",
+        "total_dom": 209,
+        "dom_pobreza": 18,
+        "porcentagem": 8.61244019138756
+    },
+    {"id":"420910205000152",
+        "total_dom": 262,
+        "dom_pobreza": 11,
+        "porcentagem": 4.198473282442748
+    },
+    {"id":"420910205000153",
+        "total_dom": 213,
+        "dom_pobreza": 12,
+        "porcentagem": 5.633802816901409
+    },
+    {"id":"420910205000154",
+        "total_dom": 345,
+        "dom_pobreza": 22,
+        "porcentagem": 6.3768115942028984
+    },
+    {"id":"420910205000155",
+        "total_dom": 261,
+        "dom_pobreza": 21,
+        "porcentagem": 8.045977011494253
+    },
+    {"id":"420910205000156",
+        "total_dom": 192,
+        "dom_pobreza": 4,
+        "porcentagem": 2.083333333333333
+    },
+    {"id":"420910205000157",
+        "total_dom": 179,
+        "dom_pobreza": 9,
+        "porcentagem": 5.027932960893855
+    },
+    {"id":"420910205000158",
+        "total_dom": 313,
+        "dom_pobreza": 23,
+        "porcentagem": 7.348242811501597
+    },
+    {"id":"420910205000159",
+        "total_dom": 275,
+        "dom_pobreza": 15,
+        "porcentagem": 5.454545454545454
+    },
+    {"id":"420910205000160",
+        "total_dom": 316,
+        "dom_pobreza": 14,
+        "porcentagem": 4.430379746835443
+    },
+    {"id":"420910205000162",
+        "total_dom": 209,
+        "dom_pobreza": 10,
+        "porcentagem": 4.784688995215311
+    },
+    {"id":"420910205000163",
+        "total_dom": 142,
+        "dom_pobreza": 8,
+        "porcentagem": 5.633802816901409
+    },
+    {"id":"420910205000164",
+        "total_dom": 225,
+        "dom_pobreza": 10,
+        "porcentagem": 4.444444444444445
+    },
+    {"id":"420910205000165",
+        "total_dom": 266,
+        "dom_pobreza": 11,
+        "porcentagem": 4.135338345864661
+    },
+    {"id":"420910205000166",
+        "total_dom": 247,
+        "dom_pobreza": 4,
+        "porcentagem": 1.6194331983805668
+    },
+    {"id":"420910205000167",
+        "total_dom": 242,
+        "dom_pobreza": 2,
+        "porcentagem": 0.8264462809917356
+    },
+    {"id":"420910205000168",
+        "total_dom": 144,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000169",
+        "total_dom": 166,
+        "dom_pobreza": 1,
+        "porcentagem": 0.6024096385542169
+    },
+    {"id":"420910205000170",
+        "total_dom": 248,
+        "dom_pobreza": 2,
+        "porcentagem": 0.8064516129032258
+    },
+    {"id":"420910205000171",
+        "total_dom": 129,
+        "dom_pobreza": 8,
+        "porcentagem": 6.2015503875969
+    },
+    {"id":"420910205000172",
+        "total_dom": 264,
+        "dom_pobreza": 4,
+        "porcentagem": 1.5151515151515151
+    },
+    {"id":"420910205000173",
+        "total_dom": 156,
+        "dom_pobreza": 2,
+        "porcentagem": 1.282051282051282
+    },
+    {"id":"420910205000174",
+        "total_dom": 210,
+        "dom_pobreza": 3,
+        "porcentagem": 1.4285714285714286
+    },
+    {"id":"420910205000175",
+        "total_dom": 281,
+        "dom_pobreza": 6,
+        "porcentagem": 2.135231316725979
+    },
+    {"id":"420910205000176",
+        "total_dom": 192,
+        "dom_pobreza": 3,
+        "porcentagem": 1.5625
+    },
+    {"id":"420910205000177",
+        "total_dom": 276,
+        "dom_pobreza": 21,
+        "porcentagem": 7.608695652173914
+    },
+    {"id":"420910205000178",
+        "total_dom": 330,
+        "dom_pobreza": 31,
+        "porcentagem": 9.393939393939393
+    },
+    {"id":"420910205000179",
+        "total_dom": 245,
+        "dom_pobreza": 32,
+        "porcentagem": 13.061224489795919
+    },
+    {"id":"420910205000180",
+        "total_dom": 269,
+        "dom_pobreza": 16,
+        "porcentagem": 5.947955390334572
+    },
+    {"id":"420910205000181",
+        "total_dom": 223,
+        "dom_pobreza": 17,
+        "porcentagem": 7.623318385650224
+    },
+    {"id":"420910205000182",
+        "total_dom": 274,
+        "dom_pobreza": 18,
+        "porcentagem": 6.569343065693431
+    },
+    {"id":"420910205000183",
+        "total_dom": 258,
+        "dom_pobreza": 9,
+        "porcentagem": 3.488372093023256
+    },
+    {"id":"420910205000184",
+        "total_dom": 253,
+        "dom_pobreza": 17,
+        "porcentagem": 6.719367588932807
+    },
+    {"id":"420910205000185",
+        "total_dom": 247,
+        "dom_pobreza": 17,
+        "porcentagem": 6.882591093117409
+    },
+    {"id":"420910205000186",
+        "total_dom": 201,
+        "dom_pobreza": 13,
+        "porcentagem": 6.467661691542288
+    },
+    {"id":"420910205000187",
+        "total_dom": 274,
+        "dom_pobreza": 15,
+        "porcentagem": 5.474452554744526
+    },
+    {"id":"420910205000188",
+        "total_dom": 176,
+        "dom_pobreza": 15,
+        "porcentagem": 8.522727272727272
+    },
+    {"id":"420910205000189",
+        "total_dom": 198,
+        "dom_pobreza": 11,
+        "porcentagem": 5.555555555555555
+    },
+    {"id":"420910205000190",
+        "total_dom": 224,
+        "dom_pobreza": 16,
+        "porcentagem": 7.142857142857142
+    },
+    {"id":"420910205000191",
+        "total_dom": 194,
+        "dom_pobreza": 15,
+        "porcentagem": 7.731958762886598
+    },
+    {"id":"420910205000192",
+        "total_dom": 287,
+        "dom_pobreza": 21,
+        "porcentagem": 7.317073170731707
+    },
+    {"id":"420910205000193",
+        "total_dom": 163,
+        "dom_pobreza": 16,
+        "porcentagem": 9.815950920245399
+    },
+    {"id":"420910205000194",
+        "total_dom": 193,
+        "dom_pobreza": 17,
+        "porcentagem": 8.808290155440414
+    },
+    {"id":"420910205000195",
+        "total_dom": 238,
+        "dom_pobreza": 10,
+        "porcentagem": 4.201680672268908
+    },
+    {"id":"420910205000196",
+        "total_dom": 298,
+        "dom_pobreza": 13,
+        "porcentagem": 4.3624161073825505
+    },
+    {"id":"420910205000197",
+        "total_dom": 179,
+        "dom_pobreza": 3,
+        "porcentagem": 1.675977653631285
+    },
+    {"id":"420910205000198",
+        "total_dom": 266,
+        "dom_pobreza": 8,
+        "porcentagem": 3.007518796992481
+    },
+    {"id":"420910205000199",
+        "total_dom": 105,
+        "dom_pobreza": 2,
+        "porcentagem": 1.9047619047619049
+    },
+    {"id":"420910205000200",
+        "total_dom": 219,
+        "dom_pobreza": 3,
+        "porcentagem": 1.36986301369863
+    },
+    {"id":"420910205000201",
+        "total_dom": 308,
+        "dom_pobreza": 11,
+        "porcentagem": 3.571428571428571
+    },
+    {"id":"420910205000202",
+        "total_dom": 295,
+        "dom_pobreza": 14,
+        "porcentagem": 4.745762711864407
+    },
+    {"id":"420910205000203",
+        "total_dom": 311,
+        "dom_pobreza": 13,
+        "porcentagem": 4.180064308681672
+    },
+    {"id":"420910205000204",
+        "total_dom": 370,
+        "dom_pobreza": 19,
+        "porcentagem": 5.135135135135135
+    },
+    {"id":"420910205000205",
+        "total_dom": 306,
+        "dom_pobreza": 8,
+        "porcentagem": 2.6143790849673203
+    },
+    {"id":"420910205000206",
+        "total_dom": 356,
+        "dom_pobreza": 8,
+        "porcentagem": 2.247191011235955
+    },
+    {"id":"420910205000207",
+        "total_dom": 282,
+        "dom_pobreza": 12,
+        "porcentagem": 4.25531914893617
+    },
+    {"id":"420910205000208",
+        "total_dom": 339,
+        "dom_pobreza": 15,
+        "porcentagem": 4.424778761061947
+    },
+    {"id":"420910205000209",
+        "total_dom": 329,
+        "dom_pobreza": 15,
+        "porcentagem": 4.5592705167173255
+    },
+    {"id":"420910205000210",
+        "total_dom": 231,
+        "dom_pobreza": 11,
+        "porcentagem": 4.761904761904762
+    },
+    {"id":"420910205000211",
+        "total_dom": 320,
+        "dom_pobreza": 12,
+        "porcentagem": 3.75
+    },
+    {"id":"420910205000212",
+        "total_dom": 226,
+        "dom_pobreza": 6,
+        "porcentagem": 2.6548672566371683
+    },
+    {"id":"420910205000213",
+        "total_dom": 149,
+        "dom_pobreza": 8,
+        "porcentagem": 5.369127516778524
+    },
+    {"id":"420910205000214",
+        "total_dom": 274,
+        "dom_pobreza": 2,
+        "porcentagem": 0.7299270072992701
+    },
+    {"id":"420910205000215",
+        "total_dom": 109,
+        "dom_pobreza": 3,
+        "porcentagem": 2.7522935779816518
+    },
+    {"id":"420910205000216",
+        "total_dom": 271,
+        "dom_pobreza": 1,
+        "porcentagem": 0.36900369003690037
+    },
+    {"id":"420910205000217",
+        "total_dom": 125,
+        "dom_pobreza": 3,
+        "porcentagem": 2.4
+    },
+    {"id":"420910205000218",
+        "total_dom": 170,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1764705882352942
+    },
+    {"id":"420910205000219",
+        "total_dom": 124,
+        "dom_pobreza": 5,
+        "porcentagem": 4.032258064516129
+    },
+    {"id":"420910205000220",
+        "total_dom": 179,
+        "dom_pobreza": 5,
+        "porcentagem": 2.793296089385475
+    },
+    {"id":"420910205000221",
+        "total_dom": 389,
+        "dom_pobreza": 4,
+        "porcentagem": 1.0282776349614395
+    },
+    {"id":"420910205000222",
+        "total_dom": 164,
+        "dom_pobreza": 8,
+        "porcentagem": 4.878048780487805
+    },
+    {"id":"420910205000223",
+        "total_dom": 206,
+        "dom_pobreza": 3,
+        "porcentagem": 1.4563106796116505
+    },
+    {"id":"420910205000224",
+        "total_dom": 197,
+        "dom_pobreza": 2,
+        "porcentagem": 1.015228426395939
+    },
+    {"id":"420910205000225",
+        "total_dom": 254,
+        "dom_pobreza": 2,
+        "porcentagem": 0.7874015748031495
+    },
+    {"id":"420910205000226",
+        "total_dom": 309,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000227",
+        "total_dom": 297,
+        "dom_pobreza": 3,
+        "porcentagem": 1.0101010101010102
+    },
+    {"id":"420910205000228",
+        "total_dom": 119,
+        "dom_pobreza": 2,
+        "porcentagem": 1.680672268907563
+    },
+    {"id":"420910205000229",
+        "total_dom": 258,
+        "dom_pobreza": 6,
+        "porcentagem": 2.3255813953488373
+    },
+    {"id":"420910205000230",
+        "total_dom": 288,
+        "dom_pobreza": 2,
+        "porcentagem": 0.6944444444444444
+    },
+    {"id":"420910205000231",
+        "total_dom": 232,
+        "dom_pobreza": 3,
+        "porcentagem": 1.293103448275862
+    },
+    {"id":"420910205000232",
+        "total_dom": 110,
+        "dom_pobreza": 2,
+        "porcentagem": 1.8181818181818181
+    },
+    {"id":"420910205000233",
+        "total_dom": 88,
+        "dom_pobreza": 4,
+        "porcentagem": 4.545454545454546
+    },
+    {"id":"420910205000234",
+        "total_dom": 229,
+        "dom_pobreza": 2,
+        "porcentagem": 0.8733624454148471
+    },
+    {"id":"420910205000235",
+        "total_dom": 205,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000236",
+        "total_dom": 305,
+        "dom_pobreza": 7,
+        "porcentagem": 2.2950819672131146
+    },
+    {"id":"420910205000237",
+        "total_dom": 256,
+        "dom_pobreza": 10,
+        "porcentagem": 3.90625
+    },
+    {"id":"420910205000238",
+        "total_dom": 161,
+        "dom_pobreza": 2,
+        "porcentagem": 1.2422360248447204
+    },
+    {"id":"420910205000239",
+        "total_dom": 262,
+        "dom_pobreza": 7,
+        "porcentagem": 2.6717557251908395
+    },
+    {"id":"420910205000240",
+        "total_dom": 186,
+        "dom_pobreza": 7,
+        "porcentagem": 3.763440860215054
+    },
+    {"id":"420910205000241",
+        "total_dom": 140,
+        "dom_pobreza": 4,
+        "porcentagem": 2.857142857142857
+    },
+    {"id":"420910205000242",
+        "total_dom": 152,
+        "dom_pobreza": 5,
+        "porcentagem": 3.289473684210526
+    },
+    {"id":"420910205000243",
+        "total_dom": 175,
+        "dom_pobreza": 3,
+        "porcentagem": 1.7142857142857144
+    },
+    {"id":"420910205000244",
+        "total_dom": 192,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000245",
+        "total_dom": 137,
+        "dom_pobreza": 5,
+        "porcentagem": 3.64963503649635
+    },
+    {"id":"420910205000246",
+        "total_dom": 136,
+        "dom_pobreza": 3,
+        "porcentagem": 2.2058823529411766
+    },
+    {"id":"420910205000247",
+        "total_dom": 230,
+        "dom_pobreza": 8,
+        "porcentagem": 3.4782608695652173
+    },
+    {"id":"420910205000248",
+        "total_dom": 214,
+        "dom_pobreza": 3,
+        "porcentagem": 1.4018691588785046
+    },
+    {"id":"420910205000249",
+        "total_dom": 153,
+        "dom_pobreza": 7,
+        "porcentagem": 4.57516339869281
+    },
+    {"id":"420910205000250",
+        "total_dom": 240,
+        "dom_pobreza": 6,
+        "porcentagem": 2.5
+    },
+    {"id":"420910205000251",
+        "total_dom": 130,
+        "dom_pobreza": 4,
+        "porcentagem": 3.076923076923077
+    },
+    {"id":"420910205000252",
+        "total_dom": 307,
+        "dom_pobreza": 3,
+        "porcentagem": 0.9771986970684038
+    },
+    {"id":"420910205000253",
+        "total_dom": 377,
+        "dom_pobreza": 13,
+        "porcentagem": 3.4482758620689653
+    },
+    {"id":"420910205000254",
+        "total_dom": 269,
+        "dom_pobreza": 7,
+        "porcentagem": 2.6022304832713754
+    },
+    {"id":"420910205000255",
+        "total_dom": 277,
+        "dom_pobreza": 13,
+        "porcentagem": 4.693140794223827
+    },
+    {"id":"420910205000256",
+        "total_dom": 301,
+        "dom_pobreza": 8,
+        "porcentagem": 2.6578073089700998
+    },
+    {"id":"420910205000257",
+        "total_dom": 281,
+        "dom_pobreza": 6,
+        "porcentagem": 2.135231316725979
+    },
+    {"id":"420910205000258",
+        "total_dom": 181,
+        "dom_pobreza": 8,
+        "porcentagem": 4.41988950276243
+    },
+    {"id":"420910205000259",
+        "total_dom": 202,
+        "dom_pobreza": 7,
+        "porcentagem": 3.4653465346534658
+    },
+    {"id":"420910205000260",
+        "total_dom": 306,
+        "dom_pobreza": 12,
+        "porcentagem": 3.9215686274509802
+    },
+    {"id":"420910205000261",
+        "total_dom": 178,
+        "dom_pobreza": 16,
+        "porcentagem": 8.98876404494382
+    },
+    {"id":"420910205000262",
+        "total_dom": 150,
+        "dom_pobreza": 26,
+        "porcentagem": 17.333333333333336
+    },
+    {"id":"420910205000263",
+        "total_dom": 125,
+        "dom_pobreza": 13,
+        "porcentagem": 10.4
+    },
+    {"id":"420910205000264",
+        "total_dom": 152,
+        "dom_pobreza": 13,
+        "porcentagem": 8.552631578947368
+    },
+    {"id":"420910205000266",
+        "total_dom": 5,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000267",
+        "total_dom": 230,
+        "dom_pobreza": 11,
+        "porcentagem": 4.782608695652174
+    },
+    {"id":"420910205000268",
+        "total_dom": 267,
+        "dom_pobreza": 13,
+        "porcentagem": 4.868913857677903
+    },
+    {"id":"420910205000269",
+        "total_dom": 266,
+        "dom_pobreza": 14,
+        "porcentagem": 5.263157894736842
+    },
+    {"id":"420910205000270",
+        "total_dom": 297,
+        "dom_pobreza": 36,
+        "porcentagem": 12.121212121212121
+    },
+    {"id":"420910205000271",
+        "total_dom": 9,
+        "dom_pobreza": 1,
+        "porcentagem": 11.11111111111111
+    },
+    {"id":"420910205000272",
+        "total_dom": 158,
+        "dom_pobreza": 6,
+        "porcentagem": 3.79746835443038
+    },
+    {"id":"420910205000273",
+        "total_dom": 288,
+        "dom_pobreza": 14,
+        "porcentagem": 4.861111111111112
+    },
+    {"id":"420910205000274",
+        "total_dom": 260,
+        "dom_pobreza": 20,
+        "porcentagem": 7.6923076923076925
+    },
+    {"id":"420910205000275",
+        "total_dom": 306,
+        "dom_pobreza": 13,
+        "porcentagem": 4.248366013071895
+    },
+    {"id":"420910205000276",
+        "total_dom": 282,
+        "dom_pobreza": 3,
+        "porcentagem": 1.0638297872340425
+    },
+    {"id":"420910205000277",
+        "total_dom": 238,
+        "dom_pobreza": 10,
+        "porcentagem": 4.201680672268908
+    },
+    {"id":"420910205000278",
+        "total_dom": 319,
+        "dom_pobreza": 15,
+        "porcentagem": 4.702194357366771
+    },
+    {"id":"420910205000279",
+        "total_dom": 293,
+        "dom_pobreza": 17,
+        "porcentagem": 5.802047781569966
+    },
+    {"id":"420910205000280",
+        "total_dom": 343,
+        "dom_pobreza": 30,
+        "porcentagem": 8.746355685131196
+    },
+    {"id":"420910205000281",
+        "total_dom": 201,
+        "dom_pobreza": 16,
+        "porcentagem": 7.960199004975125
+    },
+    {"id":"420910205000282",
+        "total_dom": 242,
+        "dom_pobreza": 11,
+        "porcentagem": 4.545454545454546
+    },
+    {"id":"420910205000283",
+        "total_dom": 158,
+        "dom_pobreza": 11,
+        "porcentagem": 6.962025316455696
+    },
+    {"id":"420910205000284",
+        "total_dom": 287,
+        "dom_pobreza": 17,
+        "porcentagem": 5.923344947735192
+    },
+    {"id":"420910205000285",
+        "total_dom": 328,
+        "dom_pobreza": 15,
+        "porcentagem": 4.573170731707317
+    },
+    {"id":"420910205000286",
+        "total_dom": 247,
+        "dom_pobreza": 14,
+        "porcentagem": 5.668016194331984
+    },
+    {"id":"420910205000287",
+        "total_dom": 205,
+        "dom_pobreza": 50,
+        "porcentagem": 24.390243902439025
+    },
+    {"id":"420910205000288",
+        "total_dom": 234,
+        "dom_pobreza": 59,
+        "porcentagem": 25.213675213675213
+    },
+    {"id":"420910205000289",
+        "total_dom": 216,
+        "dom_pobreza": 12,
+        "porcentagem": 5.555555555555555
+    },
+    {"id":"420910205000290",
+        "total_dom": 207,
+        "dom_pobreza": 14,
+        "porcentagem": 6.763285024154589
+    },
+    {"id":"420910205000291",
+        "total_dom": 167,
+        "dom_pobreza": 23,
+        "porcentagem": 13.77245508982036
+    },
+    {"id":"420910205000292",
+        "total_dom": 204,
+        "dom_pobreza": 8,
+        "porcentagem": 3.9215686274509802
+    },
+    {"id":"420910205000293",
+        "total_dom": 202,
+        "dom_pobreza": 12,
+        "porcentagem": 5.9405940594059405
+    },
+    {"id":"420910205000294",
+        "total_dom": 186,
+        "dom_pobreza": 6,
+        "porcentagem": 3.225806451612903
+    },
+    {"id":"420910205000295",
+        "total_dom": 322,
+        "dom_pobreza": 22,
+        "porcentagem": 6.832298136645963
+    },
+    {"id":"420910205000296",
+        "total_dom": 109,
+        "dom_pobreza": 3,
+        "porcentagem": 2.7522935779816518
+    },
+    {"id":"420910205000297",
+        "total_dom": 228,
+        "dom_pobreza": 6,
+        "porcentagem": 2.631578947368421
+    },
+    {"id":"420910205000298",
+        "total_dom": 220,
+        "dom_pobreza": 13,
+        "porcentagem": 5.909090909090909
+    },
+    {"id":"420910205000299",
+        "total_dom": 197,
+        "dom_pobreza": 15,
+        "porcentagem": 7.614213197969544
+    },
+    {"id":"420910205000300",
+        "total_dom": 351,
+        "dom_pobreza": 15,
+        "porcentagem": 4.273504273504273
+    },
+    {"id":"420910205000301",
+        "total_dom": 333,
+        "dom_pobreza": 37,
+        "porcentagem": 11.11111111111111
+    },
+    {"id":"420910205000302",
+        "total_dom": 166,
+        "dom_pobreza": 14,
+        "porcentagem": 8.433734939759036
+    },
+    {"id":"420910205000303",
+        "total_dom": 257,
+        "dom_pobreza": 21,
+        "porcentagem": 8.171206225680933
+    },
+    {"id":"420910205000304",
+        "total_dom": 268,
+        "dom_pobreza": 27,
+        "porcentagem": 10.074626865671641
+    },
+    {"id":"420910205000305",
+        "total_dom": 283,
+        "dom_pobreza": 19,
+        "porcentagem": 6.713780918727916
+    },
+    {"id":"420910205000306",
+        "total_dom": 149,
+        "dom_pobreza": 9,
+        "porcentagem": 6.0402684563758395
+    },
+    {"id":"420910205000307",
+        "total_dom": 297,
+        "dom_pobreza": 19,
+        "porcentagem": 6.397306397306397
+    },
+    {"id":"420910205000308",
+        "total_dom": 294,
+        "dom_pobreza": 31,
+        "porcentagem": 10.54421768707483
+    },
+    {"id":"420910205000309",
+        "total_dom": 203,
+        "dom_pobreza": 5,
+        "porcentagem": 2.4630541871921183
+    },
+    {"id":"420910205000310",
+        "total_dom": 308,
+        "dom_pobreza": 13,
+        "porcentagem": 4.220779220779221
+    },
+    {"id":"420910205000311",
+        "total_dom": 317,
+        "dom_pobreza": 21,
+        "porcentagem": 6.624605678233439
+    },
+    {"id":"420910205000312",
+        "total_dom": 348,
+        "dom_pobreza": 36,
+        "porcentagem": 10.344827586206897
+    },
+    {"id":"420910205000313",
+        "total_dom": 283,
+        "dom_pobreza": 17,
+        "porcentagem": 6.007067137809187
+    },
+    {"id":"420910205000314",
+        "total_dom": 145,
+        "dom_pobreza": 9,
+        "porcentagem": 6.206896551724138
+    },
+    {"id":"420910205000315",
+        "total_dom": 313,
+        "dom_pobreza": 31,
+        "porcentagem": 9.904153354632587
+    },
+    {"id":"420910205000316",
+        "total_dom": 195,
+        "dom_pobreza": 41,
+        "porcentagem": 21.025641025641026
+    },
+    {"id":"420910205000317",
+        "total_dom": 266,
+        "dom_pobreza": 40,
+        "porcentagem": 15.037593984962406
+    },
+    {"id":"420910205000318",
+        "total_dom": 293,
+        "dom_pobreza": 34,
+        "porcentagem": 11.604095563139932
+    },
+    {"id":"420910205000319",
+        "total_dom": 212,
+        "dom_pobreza": 24,
+        "porcentagem": 11.320754716981133
+    },
+    {"id":"420910205000320",
+        "total_dom": 178,
+        "dom_pobreza": 21,
+        "porcentagem": 11.797752808988763
+    },
+    {"id":"420910205000321",
+        "total_dom": 188,
+        "dom_pobreza": 19,
+        "porcentagem": 10.106382978723403
+    },
+    {"id":"420910205000322",
+        "total_dom": 173,
+        "dom_pobreza": 13,
+        "porcentagem": 7.514450867052023
+    },
+    {"id":"420910205000323",
+        "total_dom": 327,
+        "dom_pobreza": 34,
+        "porcentagem": 10.397553516819572
+    },
+    {"id":"420910205000324",
+        "total_dom": 279,
+        "dom_pobreza": 18,
+        "porcentagem": 6.451612903225806
+    },
+    {"id":"420910205000325",
+        "total_dom": 249,
+        "dom_pobreza": 15,
+        "porcentagem": 6.024096385542169
+    },
+    {"id":"420910205000326",
+        "total_dom": 174,
+        "dom_pobreza": 13,
+        "porcentagem": 7.471264367816093
+    },
+    {"id":"420910205000327",
+        "total_dom": 209,
+        "dom_pobreza": 12,
+        "porcentagem": 5.741626794258373
+    },
+    {"id":"420910205000328",
+        "total_dom": 217,
+        "dom_pobreza": 11,
+        "porcentagem": 5.0691244239631335
+    },
+    {"id":"420910205000329",
+        "total_dom": 205,
+        "dom_pobreza": 5,
+        "porcentagem": 2.4390243902439024
+    },
+    {"id":"420910205000330",
+        "total_dom": 328,
+        "dom_pobreza": 24,
+        "porcentagem": 7.317073170731707
+    },
+    {"id":"420910205000331",
+        "total_dom": 234,
+        "dom_pobreza": 14,
+        "porcentagem": 5.982905982905983
+    },
+    {"id":"420910205000332",
+        "total_dom": 347,
+        "dom_pobreza": 22,
+        "porcentagem": 6.340057636887608
+    },
+    {"id":"420910205000333",
+        "total_dom": 194,
+        "dom_pobreza": 9,
+        "porcentagem": 4.639175257731959
+    },
+    {"id":"420910205000334",
+        "total_dom": 148,
+        "dom_pobreza": 4,
+        "porcentagem": 2.7027027027027026
+    },
+    {"id":"420910205000335",
+        "total_dom": 297,
+        "dom_pobreza": 8,
+        "porcentagem": 2.6936026936026933
+    },
+    {"id":"420910205000336",
+        "total_dom": 143,
+        "dom_pobreza": 2,
+        "porcentagem": 1.3986013986013985
+    },
+    {"id":"420910205000337",
+        "total_dom": 243,
+        "dom_pobreza": 18,
+        "porcentagem": 7.4074074074074066
+    },
+    {"id":"420910205000338",
+        "total_dom": 208,
+        "dom_pobreza": 10,
+        "porcentagem": 4.807692307692308
+    },
+    {"id":"420910205000339",
+        "total_dom": 216,
+        "dom_pobreza": 5,
+        "porcentagem": 2.314814814814815
+    },
+    {"id":"420910205000340",
+        "total_dom": 192,
+        "dom_pobreza": 5,
+        "porcentagem": 2.604166666666667
+    },
+    {"id":"420910205000341",
+        "total_dom": 248,
+        "dom_pobreza": 5,
+        "porcentagem": 2.0161290322580645
+    },
+    {"id":"420910205000342",
+        "total_dom": 370,
+        "dom_pobreza": 31,
+        "porcentagem": 8.378378378378379
+    },
+    {"id":"420910205000343",
+        "total_dom": 222,
+        "dom_pobreza": 4,
+        "porcentagem": 1.8018018018018018
+    },
+    {"id":"420910205000344",
+        "total_dom": 214,
+        "dom_pobreza": 13,
+        "porcentagem": 6.074766355140187
+    },
+    {"id":"420910205000345",
+        "total_dom": 245,
+        "dom_pobreza": 9,
+        "porcentagem": 3.6734693877551026
+    },
+    {"id":"420910205000346",
+        "total_dom": 170,
+        "dom_pobreza": 5,
+        "porcentagem": 2.941176470588235
+    },
+    {"id":"420910205000347",
+        "total_dom": 202,
+        "dom_pobreza": 6,
+        "porcentagem": 2.9702970297029703
+    },
+    {"id":"420910205000348",
+        "total_dom": 339,
+        "dom_pobreza": 10,
+        "porcentagem": 2.949852507374631
+    },
+    {"id":"420910205000349",
+        "total_dom": 120,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000350",
+        "total_dom": 219,
+        "dom_pobreza": 10,
+        "porcentagem": 4.5662100456621
+    },
+    {"id":"420910205000351",
+        "total_dom": 143,
+        "dom_pobreza": 4,
+        "porcentagem": 2.797202797202797
+    },
+    {"id":"420910205000352",
+        "total_dom": 182,
+        "dom_pobreza": 5,
+        "porcentagem": 2.7472527472527473
+    },
+    {"id":"420910205000353",
+        "total_dom": 163,
+        "dom_pobreza": 4,
+        "porcentagem": 2.4539877300613497
+    },
+    {"id":"420910205000354",
+        "total_dom": 191,
+        "dom_pobreza": 4,
+        "porcentagem": 2.094240837696335
+    },
+    {"id":"420910205000355",
+        "total_dom": 225,
+        "dom_pobreza": 5,
+        "porcentagem": 2.2222222222222223
+    },
+    {"id":"420910205000356",
+        "total_dom": 166,
+        "dom_pobreza": 4,
+        "porcentagem": 2.4096385542168677
+    },
+    {"id":"420910205000357",
+        "total_dom": 294,
+        "dom_pobreza": 15,
+        "porcentagem": 5.1020408163265305
+    },
+    {"id":"420910205000358",
+        "total_dom": 173,
+        "dom_pobreza": 8,
+        "porcentagem": 4.624277456647398
+    },
+    {"id":"420910205000359",
+        "total_dom": 332,
+        "dom_pobreza": 18,
+        "porcentagem": 5.421686746987952
+    },
+    {"id":"420910205000360",
+        "total_dom": 155,
+        "dom_pobreza": 14,
+        "porcentagem": 9.032258064516128
+    },
+    {"id":"420910205000361",
+        "total_dom": 169,
+        "dom_pobreza": 7,
+        "porcentagem": 4.142011834319527
+    },
+    {"id":"420910205000362",
+        "total_dom": 238,
+        "dom_pobreza": 18,
+        "porcentagem": 7.563025210084033
+    },
+    {"id":"420910205000363",
+        "total_dom": 142,
+        "dom_pobreza": 3,
+        "porcentagem": 2.112676056338028
+    },
+    {"id":"420910205000364",
+        "total_dom": 342,
+        "dom_pobreza": 26,
+        "porcentagem": 7.602339181286549
+    },
+    {"id":"420910205000365",
+        "total_dom": 334,
+        "dom_pobreza": 24,
+        "porcentagem": 7.18562874251497
+    },
+    {"id":"420910205000366",
+        "total_dom": 217,
+        "dom_pobreza": 27,
+        "porcentagem": 12.442396313364055
+    },
+    {"id":"420910205000367",
+        "total_dom": 189,
+        "dom_pobreza": 22,
+        "porcentagem": 11.64021164021164
+    },
+    {"id":"420910205000368",
+        "total_dom": 318,
+        "dom_pobreza": 20,
+        "porcentagem": 6.289308176100629
+    },
+    {"id":"420910205000369",
+        "total_dom": 305,
+        "dom_pobreza": 20,
+        "porcentagem": 6.557377049180328
+    },
+    {"id":"420910205000370",
+        "total_dom": 150,
+        "dom_pobreza": 11,
+        "porcentagem": 7.333333333333333
+    },
+    {"id":"420910205000371",
+        "total_dom": 200,
+        "dom_pobreza": 15,
+        "porcentagem": 7.5
+    },
+    {"id":"420910205000372",
+        "total_dom": 245,
+        "dom_pobreza": 38,
+        "porcentagem": 15.510204081632653
+    },
+    {"id":"420910205000373",
+        "total_dom": 125,
+        "dom_pobreza": 9,
+        "porcentagem": 7.199999999999999
+    },
+    {"id":"420910205000374",
+        "total_dom": 320,
+        "dom_pobreza": 52,
+        "porcentagem": 16.25
+    },
+    {"id":"420910205000375",
+        "total_dom": 218,
+        "dom_pobreza": 21,
+        "porcentagem": 9.63302752293578
+    },
+    {"id":"420910205000376",
+        "total_dom": 294,
+        "dom_pobreza": 24,
+        "porcentagem": 8.16326530612245
+    },
+    {"id":"420910205000377",
+        "total_dom": 277,
+        "dom_pobreza": 33,
+        "porcentagem": 11.913357400722022
+    },
+    {"id":"420910205000378",
+        "total_dom": 366,
+        "dom_pobreza": 33,
+        "porcentagem": 9.01639344262295
+    },
+    {"id":"420910205000379",
+        "total_dom": 204,
+        "dom_pobreza": 12,
+        "porcentagem": 5.88235294117647
+    },
+    {"id":"420910205000380",
+        "total_dom": 137,
+        "dom_pobreza": 14,
+        "porcentagem": 10.218978102189782
+    },
+    {"id":"420910205000381",
+        "total_dom": 293,
+        "dom_pobreza": 15,
+        "porcentagem": 5.1194539249146755
+    },
+    {"id":"420910205000382",
+        "total_dom": 14,
+        "dom_pobreza": 1,
+        "porcentagem": 7.142857142857142
+    },
+    {"id":"420910205000383",
+        "total_dom": 358,
+        "dom_pobreza": 8,
+        "porcentagem": 2.2346368715083798
+    },
+    {"id":"420910205000384",
+        "total_dom": 305,
+        "dom_pobreza": 13,
+        "porcentagem": 4.2622950819672125
+    },
+    {"id":"420910205000385",
+        "total_dom": 314,
+        "dom_pobreza": 44,
+        "porcentagem": 14.012738853503185
+    },
+    {"id":"420910205000386",
+        "total_dom": 326,
+        "dom_pobreza": 19,
+        "porcentagem": 5.828220858895705
+    },
+    {"id":"420910205000387",
+        "total_dom": 218,
+        "dom_pobreza": 11,
+        "porcentagem": 5.045871559633028
+    },
+    {"id":"420910205000388",
+        "total_dom": 347,
+        "dom_pobreza": 9,
+        "porcentagem": 2.5936599423631126
+    },
+    {"id":"420910205000389",
+        "total_dom": 199,
+        "dom_pobreza": 15,
+        "porcentagem": 7.537688442211055
+    },
+    {"id":"420910205000390",
+        "total_dom": 232,
+        "dom_pobreza": 29,
+        "porcentagem": 12.5
+    },
+    {"id":"420910205000391",
+        "total_dom": 321,
+        "dom_pobreza": 21,
+        "porcentagem": 6.5420560747663545
+    },
+    {"id":"420910205000392",
+        "total_dom": 349,
+        "dom_pobreza": 29,
+        "porcentagem": 8.30945558739255
+    },
+    {"id":"420910205000393",
+        "total_dom": 347,
+        "dom_pobreza": 20,
+        "porcentagem": 5.763688760806916
+    },
+    {"id":"420910205000394",
+        "total_dom": 334,
+        "dom_pobreza": 19,
+        "porcentagem": 5.688622754491018
+    },
+    {"id":"420910205000395",
+        "total_dom": 95,
+        "dom_pobreza": 1,
+        "porcentagem": 1.0526315789473684
+    },
+    {"id":"420910205000396",
+        "total_dom": 168,
+        "dom_pobreza": 7,
+        "porcentagem": 4.166666666666666
+    },
+    {"id":"420910205000397",
+        "total_dom": 187,
+        "dom_pobreza": 14,
+        "porcentagem": 7.4866310160427805
+    },
+    {"id":"420910205000398",
+        "total_dom": 154,
+        "dom_pobreza": 6,
+        "porcentagem": 3.896103896103896
+    },
+    {"id":"420910205000399",
+        "total_dom": 270,
+        "dom_pobreza": 2,
+        "porcentagem": 0.7407407407407408
+    },
+    {"id":"420910205000400",
+        "total_dom": 251,
+        "dom_pobreza": 7,
+        "porcentagem": 2.788844621513944
+    },
+    {"id":"420910205000401",
+        "total_dom": 161,
+        "dom_pobreza": 16,
+        "porcentagem": 9.937888198757763
+    },
+    {"id":"420910205000402",
+        "total_dom": 336,
+        "dom_pobreza": 55,
+        "porcentagem": 16.36904761904762
+    },
+    {"id":"420910205000403",
+        "total_dom": 249,
+        "dom_pobreza": 35,
+        "porcentagem": 14.056224899598394
+    },
+    {"id":"420910205000404",
+        "total_dom": 243,
+        "dom_pobreza": 18,
+        "porcentagem": 7.4074074074074066
+    },
+    {"id":"420910205000405",
+        "total_dom": 389,
+        "dom_pobreza": 34,
+        "porcentagem": 8.740359897172237
+    },
+    {"id":"420910205000406",
+        "total_dom": 238,
+        "dom_pobreza": 15,
+        "porcentagem": 6.302521008403361
+    },
+    {"id":"420910205000407",
+        "total_dom": 152,
+        "dom_pobreza": 14,
+        "porcentagem": 9.210526315789473
+    },
+    {"id":"420910205000408",
+        "total_dom": 372,
+        "dom_pobreza": 56,
+        "porcentagem": 15.053763440860216
+    },
+    {"id":"420910205000409",
+        "total_dom": 183,
+        "dom_pobreza": 24,
+        "porcentagem": 13.114754098360656
+    },
+    {"id":"420910205000410",
+        "total_dom": 255,
+        "dom_pobreza": 22,
+        "porcentagem": 8.627450980392156
+    },
+    {"id":"420910205000411",
+        "total_dom": 243,
+        "dom_pobreza": 15,
+        "porcentagem": 6.172839506172839
+    },
+    {"id":"420910205000412",
+        "total_dom": 269,
+        "dom_pobreza": 16,
+        "porcentagem": 5.947955390334572
+    },
+    {"id":"420910205000413",
+        "total_dom": 56,
+        "dom_pobreza": 4,
+        "porcentagem": 7.142857142857142
+    },
+    {"id":"420910205000414",
+        "total_dom": 266,
+        "dom_pobreza": 26,
+        "porcentagem": 9.774436090225564
+    },
+    {"id":"420910205000415",
+        "total_dom": 161,
+        "dom_pobreza": 38,
+        "porcentagem": 23.60248447204969
+    },
+    {"id":"420910205000416",
+        "total_dom": 108,
+        "dom_pobreza": 5,
+        "porcentagem": 4.62962962962963
+    },
+    {"id":"420910205000417",
+        "total_dom": 329,
+        "dom_pobreza": 27,
+        "porcentagem": 8.206686930091186
+    },
+    {"id":"420910205000418",
+        "total_dom": 203,
+        "dom_pobreza": 18,
+        "porcentagem": 8.866995073891626
+    },
+    {"id":"420910205000419",
+        "total_dom": 208,
+        "dom_pobreza": 13,
+        "porcentagem": 6.25
+    },
+    {"id":"420910205000420",
+        "total_dom": 193,
+        "dom_pobreza": 23,
+        "porcentagem": 11.917098445595855
+    },
+    {"id":"420910205000421",
+        "total_dom": 295,
+        "dom_pobreza": 21,
+        "porcentagem": 7.118644067796611
+    },
+    {"id":"420910205000422",
+        "total_dom": 228,
+        "dom_pobreza": 6,
+        "porcentagem": 2.631578947368421
+    },
+    {"id":"420910205000423",
+        "total_dom": 282,
+        "dom_pobreza": 23,
+        "porcentagem": 8.156028368794328
+    },
+    {"id":"420910205000424",
+        "total_dom": 332,
+        "dom_pobreza": 17,
+        "porcentagem": 5.120481927710843
+    },
+    {"id":"420910205000425",
+        "total_dom": 182,
+        "dom_pobreza": 16,
+        "porcentagem": 8.791208791208792
+    },
+    {"id":"420910205000426",
+        "total_dom": 222,
+        "dom_pobreza": 23,
+        "porcentagem": 10.36036036036036
+    },
+    {"id":"420910205000427",
+        "total_dom": 249,
+        "dom_pobreza": 17,
+        "porcentagem": 6.827309236947792
+    },
+    {"id":"420910205000428",
+        "total_dom": 246,
+        "dom_pobreza": 22,
+        "porcentagem": 8.94308943089431
+    },
+    {"id":"420910205000429",
+        "total_dom": 238,
+        "dom_pobreza": 16,
+        "porcentagem": 6.722689075630252
+    },
+    {"id":"420910205000430",
+        "total_dom": 309,
+        "dom_pobreza": 54,
+        "porcentagem": 17.475728155339805
+    },
+    {"id":"420910205000431",
+        "total_dom": 246,
+        "dom_pobreza": 38,
+        "porcentagem": 15.447154471544716
+    },
+    {"id":"420910205000432",
+        "total_dom": 378,
+        "dom_pobreza": 33,
+        "porcentagem": 8.73015873015873
+    },
+    {"id":"420910205000433",
+        "total_dom": 271,
+        "dom_pobreza": 27,
+        "porcentagem": 9.96309963099631
+    },
+    {"id":"420910205000434",
+        "total_dom": 212,
+        "dom_pobreza": 25,
+        "porcentagem": 11.79245283018868
+    },
+    {"id":"420910205000435",
+        "total_dom": 258,
+        "dom_pobreza": 24,
+        "porcentagem": 9.30232558139535
+    },
+    {"id":"420910205000436",
+        "total_dom": 165,
+        "dom_pobreza": 11,
+        "porcentagem": 6.666666666666667
+    },
+    {"id":"420910205000437",
+        "total_dom": 339,
+        "dom_pobreza": 48,
+        "porcentagem": 14.15929203539823
+    },
+    {"id":"420910205000438",
+        "total_dom": 177,
+        "dom_pobreza": 10,
+        "porcentagem": 5.649717514124294
+    },
+    {"id":"420910205000439",
+        "total_dom": 118,
+        "dom_pobreza": 8,
+        "porcentagem": 6.779661016949152
+    },
+    {"id":"420910205000440",
+        "total_dom": 188,
+        "dom_pobreza": 5,
+        "porcentagem": 2.6595744680851063
+    },
+    {"id":"420910205000441",
+        "total_dom": 317,
+        "dom_pobreza": 85,
+        "porcentagem": 26.813880126182966
+    },
+    {"id":"420910205000442",
+        "total_dom": 323,
+        "dom_pobreza": 68,
+        "porcentagem": 21.052631578947366
+    },
+    {"id":"420910205000443",
+        "total_dom": 277,
+        "dom_pobreza": 43,
+        "porcentagem": 15.523465703971121
+    },
+    {"id":"420910205000444",
+        "total_dom": 194,
+        "dom_pobreza": 21,
+        "porcentagem": 10.824742268041238
+    },
+    {"id":"420910205000445",
+        "total_dom": 192,
+        "dom_pobreza": 12,
+        "porcentagem": 6.25
+    },
+    {"id":"420910205000446",
+        "total_dom": 419,
+        "dom_pobreza": 155,
+        "porcentagem": 36.9928400954654
+    },
+    {"id":"420910205000447",
+        "total_dom": 186,
+        "dom_pobreza": 55,
+        "porcentagem": 29.56989247311828
+    },
+    {"id":"420910205000448",
+        "total_dom": 19,
+        "dom_pobreza": 2,
+        "porcentagem": 10.526315789473683
+    },
+    {"id":"420910205000449",
+        "total_dom": 266,
+        "dom_pobreza": 14,
+        "porcentagem": 5.263157894736842
+    },
+    {"id":"420910205000450",
+        "total_dom": 229,
+        "dom_pobreza": 26,
+        "porcentagem": 11.353711790393014
+    },
+    {"id":"420910205000451",
+        "total_dom": 188,
+        "dom_pobreza": 23,
+        "porcentagem": 12.23404255319149
+    },
+    {"id":"420910205000452",
+        "total_dom": 143,
+        "dom_pobreza": 12,
+        "porcentagem": 8.391608391608392
+    },
+    {"id":"420910205000453",
+        "total_dom": 257,
+        "dom_pobreza": 44,
+        "porcentagem": 17.120622568093385
+    },
+    {"id":"420910205000454",
+        "total_dom": 359,
+        "dom_pobreza": 68,
+        "porcentagem": 18.94150417827298
+    },
+    {"id":"420910205000455",
+        "total_dom": 333,
+        "dom_pobreza": 50,
+        "porcentagem": 15.015015015015015
+    },
+    {"id":"420910205000456",
+        "total_dom": 318,
+        "dom_pobreza": 27,
+        "porcentagem": 8.49056603773585
+    },
+    {"id":"420910205000457",
+        "total_dom": 243,
+        "dom_pobreza": 21,
+        "porcentagem": 8.641975308641975
+    },
+    {"id":"420910205000458",
+        "total_dom": 186,
+        "dom_pobreza": 27,
+        "porcentagem": 14.516129032258066
+    },
+    {"id":"420910205000459",
+        "total_dom": 0,
+        "dom_pobreza": 0,
+        "porcentagem": 0
+    },
+    {"id":"420910205000460",
+        "total_dom": 353,
+        "dom_pobreza": 31,
+        "porcentagem": 8.78186968838527
+    },
+    {"id":"420910205000461",
+        "total_dom": 192,
+        "dom_pobreza": 14,
+        "porcentagem": 7.291666666666667
+    },
+    {"id":"420910205000462",
+        "total_dom": 277,
+        "dom_pobreza": 30,
+        "porcentagem": 10.830324909747292
+    },
+    {"id":"420910205000463",
+        "total_dom": 71,
+        "dom_pobreza": 6,
+        "porcentagem": 8.450704225352112
+    },
+    {"id":"420910205000464",
+        "total_dom": 378,
+        "dom_pobreza": 37,
+        "porcentagem": 9.788359788359788
+    },
+    {"id":"420910205000465",
+        "total_dom": 191,
+        "dom_pobreza": 32,
+        "porcentagem": 16.75392670157068
+    },
+    {"id":"420910205000466",
+        "total_dom": 346,
+        "dom_pobreza": 52,
+        "porcentagem": 15.028901734104046
+    },
+    {"id":"420910205000467",
+        "total_dom": 439,
+        "dom_pobreza": 58,
+        "porcentagem": 13.211845102505695
+    },
+    {"id":"420910205000468",
+        "total_dom": 167,
+        "dom_pobreza": 20,
+        "porcentagem": 11.976047904191617
+    },
+    {"id":"420910205000469",
+        "total_dom": 374,
+        "dom_pobreza": 53,
+        "porcentagem": 14.171122994652407
+    },
+    {"id":"420910205000470",
+        "total_dom": 117,
+        "dom_pobreza": 20,
+        "porcentagem": 17.094017094017094
+    },
+    {"id":"420910205000471",
+        "total_dom": 25,
+        "dom_pobreza": 2,
+        "porcentagem": 8.0
+    },
+    {"id":"420910205000472",
+        "total_dom": 277,
+        "dom_pobreza": 27,
+        "porcentagem": 9.747292418772563
+    },
+    {"id":"420910205000473",
+        "total_dom": 378,
+        "dom_pobreza": 39,
+        "porcentagem": 10.317460317460316
+    },
+    {"id":"420910205000474",
+        "total_dom": 318,
+        "dom_pobreza": 27,
+        "porcentagem": 8.49056603773585
+    },
+    {"id":"420910205000475",
+        "total_dom": 241,
+        "dom_pobreza": 16,
+        "porcentagem": 6.639004149377594
+    },
+    {"id":"420910205000476",
+        "total_dom": 216,
+        "dom_pobreza": 21,
+        "porcentagem": 9.722222222222223
+    },
+    {"id":"420910205000477",
+        "total_dom": 433,
+        "dom_pobreza": 35,
+        "porcentagem": 8.083140877598153
+    },
+    {"id":"420910205000478",
+        "total_dom": 401,
+        "dom_pobreza": 34,
+        "porcentagem": 8.478802992518704
+    },
+    {"id":"420910205000479",
+        "total_dom": 354,
+        "dom_pobreza": 19,
+        "porcentagem": 5.367231638418079
+    },
+    {"id":"420910205000480",
+        "total_dom": 383,
+        "dom_pobreza": 41,
+        "porcentagem": 10.704960835509137
+    },
+    {"id":"420910205000481",
+        "total_dom": 217,
+        "dom_pobreza": 24,
+        "porcentagem": 11.059907834101383
+    },
+    {"id":"420910205000482",
+        "total_dom": 295,
+        "dom_pobreza": 24,
+        "porcentagem": 8.135593220338983
+    },
+    {"id":"420910205000483",
+        "total_dom": 309,
+        "dom_pobreza": 37,
+        "porcentagem": 11.974110032362459
+    },
+    {"id":"420910205000484",
+        "total_dom": 258,
+        "dom_pobreza": 28,
+        "porcentagem": 10.852713178294573
+    },
+    {"id":"420910205000485",
+        "total_dom": 175,
+        "dom_pobreza": 24,
+        "porcentagem": 13.714285714285715
+    },
+    {"id":"420910205000486",
+        "total_dom": 324,
+        "dom_pobreza": 17,
+        "porcentagem": 5.246913580246913
+    },
+    {"id":"420910205000487",
+        "total_dom": 163,
+        "dom_pobreza": 6,
+        "porcentagem": 3.6809815950920246
+    },
+    {"id":"420910205000488",
+        "total_dom": 276,
+        "dom_pobreza": 41,
+        "porcentagem": 14.855072463768115
+    },
+    {"id":"420910205000489",
+        "total_dom": 183,
+        "dom_pobreza": 10,
+        "porcentagem": 5.46448087431694
+    },
+    {"id":"420910205000490",
+        "total_dom": 263,
+        "dom_pobreza": 22,
+        "porcentagem": 8.365019011406844
+    },
+    {"id":"420910205000491",
+        "total_dom": 208,
+        "dom_pobreza": 17,
+        "porcentagem": 8.173076923076923
+    },
+    {"id":"420910205000492",
+        "total_dom": 201,
+        "dom_pobreza": 14,
+        "porcentagem": 6.965174129353234
+    },
+    {"id":"420910205000493",
+        "total_dom": 301,
+        "dom_pobreza": 13,
+        "porcentagem": 4.318936877076411
+    },
+    {"id":"420910205000494",
+        "total_dom": 298,
+        "dom_pobreza": 24,
+        "porcentagem": 8.053691275167784
+    },
+    {"id":"420910205000495",
+        "total_dom": 202,
+        "dom_pobreza": 18,
+        "porcentagem": 8.91089108910891
+    },
+    {"id":"420910205000496",
+        "total_dom": 163,
+        "dom_pobreza": 16,
+        "porcentagem": 9.815950920245399
+    },
+    {"id":"420910205000497",
+        "total_dom": 169,
+        "dom_pobreza": 28,
+        "porcentagem": 16.56804733727811
+    },
+    {"id":"420910205000498",
+        "total_dom": 172,
+        "dom_pobreza": 17,
+        "porcentagem": 9.883720930232558
+    },
+    {"id":"420910205000499",
+        "total_dom": 218,
+        "dom_pobreza": 23,
+        "porcentagem": 10.550458715596331
+    },
+    {"id":"420910205000500",
+        "total_dom": 151,
+        "dom_pobreza": 18,
+        "porcentagem": 11.920529801324504
+    },
+    {"id":"420910205000501",
+        "total_dom": 245,
+        "dom_pobreza": 33,
+        "porcentagem": 13.46938775510204
+    },
+    {"id":"420910205000502",
+        "total_dom": 273,
+        "dom_pobreza": 43,
+        "porcentagem": 15.75091575091575
+    },
+    {"id":"420910205000503",
+        "total_dom": 285,
+        "dom_pobreza": 55,
+        "porcentagem": 19.298245614035086
+    },
+    {"id":"420910205000504",
+        "total_dom": 205,
+        "dom_pobreza": 30,
+        "porcentagem": 14.634146341463413
+    },
+    {"id":"420910205000505",
+        "total_dom": 268,
+        "dom_pobreza": 48,
+        "porcentagem": 17.91044776119403
+    },
+    {"id":"420910205000506",
+        "total_dom": 188,
+        "dom_pobreza": 28,
+        "porcentagem": 14.893617021276595
+    },
+    {"id":"420910205000507",
+        "total_dom": 216,
+        "dom_pobreza": 35,
+        "porcentagem": 16.203703703703702
+    },
+    {"id":"420910205000508",
+        "total_dom": 221,
+        "dom_pobreza": 28,
+        "porcentagem": 12.669683257918551
+    },
+    {"id":"420910205000509",
+        "total_dom": 216,
+        "dom_pobreza": 31,
+        "porcentagem": 14.351851851851851
+    },
+    {"id":"420910205000510",
+        "total_dom": 309,
+        "dom_pobreza": 47,
+        "porcentagem": 15.210355987055015
+    },
+    {"id":"420910205000511",
+        "total_dom": 266,
+        "dom_pobreza": 57,
+        "porcentagem": 21.428571428571427
+    },
+    {"id":"420910205000512",
+        "total_dom": 250,
+        "dom_pobreza": 63,
+        "porcentagem": 25.2
+    },
+    {"id":"420910205000513",
+        "total_dom": 187,
+        "dom_pobreza": 40,
+        "porcentagem": 21.390374331550802
+    },
+    {"id":"420910205000514",
+        "total_dom": 230,
+        "dom_pobreza": 29,
+        "porcentagem": 12.608695652173912
+    },
+    {"id":"420910205000515",
+        "total_dom": 272,
+        "dom_pobreza": 35,
+        "porcentagem": 12.867647058823529
+    },
+    {"id":"420910205000516",
+        "total_dom": 224,
+        "dom_pobreza": 37,
+        "porcentagem": 16.517857142857142
+    },
+    {"id":"420910205000517",
+        "total_dom": 208,
+        "dom_pobreza": 30,
+        "porcentagem": 14.423076923076922
+    },
+    {"id":"420910205000518",
+        "total_dom": 123,
+        "dom_pobreza": 22,
+        "porcentagem": 17.88617886178862
+    },
+    {"id":"420910205000519",
+        "total_dom": 226,
+        "dom_pobreza": 30,
+        "porcentagem": 13.274336283185843
+    },
+    {"id":"420910205000520",
+        "total_dom": 209,
+        "dom_pobreza": 25,
+        "porcentagem": 11.961722488038278
+    },
+    {"id":"420910205000521",
+        "total_dom": 171,
+        "dom_pobreza": 18,
+        "porcentagem": 10.526315789473683
+    },
+    {"id":"420910205000522",
+        "total_dom": 219,
+        "dom_pobreza": 50,
+        "porcentagem": 22.831050228310502
+    },
+    {"id":"420910205000523",
+        "total_dom": 284,
+        "dom_pobreza": 71,
+        "porcentagem": 25.0
+    },
+    {"id":"420910205000524",
+        "total_dom": 242,
+        "dom_pobreza": 55,
+        "porcentagem": 22.727272727272727
+    },
+    {"id":"420910205000525",
+        "total_dom": 159,
+        "dom_pobreza": 35,
+        "porcentagem": 22.0125786163522
+    },
+    {"id":"420910205000526",
+        "total_dom": 56,
+        "dom_pobreza": 29,
+        "porcentagem": 51.78571428571429
+    },
+    {"id":"420910205000527",
+        "total_dom": 256,
+        "dom_pobreza": 61,
+        "porcentagem": 23.828125
+    },
+    {"id":"420910205000528",
+        "total_dom": 257,
+        "dom_pobreza": 53,
+        "porcentagem": 20.622568093385212
+    },
+    {"id":"420910205000529",
+        "total_dom": 192,
+        "dom_pobreza": 37,
+        "porcentagem": 19.270833333333336
+    },
+    {"id":"420910205000530",
+        "total_dom": 449,
+        "dom_pobreza": 82,
+        "porcentagem": 18.262806236080177
+    },
+    {"id":"420910205000531",
+        "total_dom": 226,
+        "dom_pobreza": 36,
+        "porcentagem": 15.929203539823009
+    },
+    {"id":"420910205000532",
+        "total_dom": 161,
+        "dom_pobreza": 18,
+        "porcentagem": 11.180124223602485
+    },
+    {"id":"420910205000533",
+        "total_dom": 164,
+        "dom_pobreza": 18,
+        "porcentagem": 10.975609756097562
+    },
+    {"id":"420910205000534",
+        "total_dom": 174,
+        "dom_pobreza": 17,
+        "porcentagem": 9.770114942528735
+    },
+    {"id":"420910205000535",
+        "total_dom": 68,
+        "dom_pobreza": 10,
+        "porcentagem": 14.705882352941178
+    },
+    {"id":"420910205000536",
+        "total_dom": 12,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000537",
+        "total_dom": 83,
+        "dom_pobreza": 5,
+        "porcentagem": 6.024096385542169
+    },
+    {"id":"420910205000538",
+        "total_dom": 188,
+        "dom_pobreza": 10,
+        "porcentagem": 5.319148936170213
+    },
+    {"id":"420910205000539",
+        "total_dom": 147,
+        "dom_pobreza": 14,
+        "porcentagem": 9.523809523809524
+    },
+    {"id":"420910205000540",
+        "total_dom": 170,
+        "dom_pobreza": 3,
+        "porcentagem": 1.7647058823529411
+    },
+    {"id":"420910205000541",
+        "total_dom": 113,
+        "dom_pobreza": 16,
+        "porcentagem": 14.15929203539823
+    },
+    {"id":"420910205000542",
+        "total_dom": 353,
+        "dom_pobreza": 45,
+        "porcentagem": 12.747875354107649
+    },
+    {"id":"420910205000543",
+        "total_dom": 217,
+        "dom_pobreza": 91,
+        "porcentagem": 41.935483870967744
+    },
+    {"id":"420910205000544",
+        "total_dom": 59,
+        "dom_pobreza": 29,
+        "porcentagem": 49.152542372881356
+    },
+    {"id":"420910205000545",
+        "total_dom": 87,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000546",
+        "total_dom": 171,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000547",
+        "total_dom": 104,
+        "dom_pobreza": 2,
+        "porcentagem": 1.9230769230769231
+    },
+    {"id":"420910205000548",
+        "total_dom": 224,
+        "dom_pobreza": 1,
+        "porcentagem": 0.4464285714285714
+    },
+    {"id":"420910205000549",
+        "total_dom": 200,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000550",
+        "total_dom": 228,
+        "dom_pobreza": 4,
+        "porcentagem": 1.7543859649122806
+    },
+    {"id":"420910205000551",
+        "total_dom": 101,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000552",
+        "total_dom": 236,
+        "dom_pobreza": 7,
+        "porcentagem": 2.9661016949152543
+    },
+    {"id":"420910205000553",
+        "total_dom": 140,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7142857142857143
+    },
+    {"id":"420910205000554",
+        "total_dom": 150,
+        "dom_pobreza": 1,
+        "porcentagem": 0.6666666666666667
+    },
+    {"id":"420910205000555",
+        "total_dom": 138,
+        "dom_pobreza": 1,
+        "porcentagem": 0.7246376811594203
+    },
+    {"id":"420910205000556",
+        "total_dom": 163,
+        "dom_pobreza": 3,
+        "porcentagem": 1.8404907975460123
+    },
+    {"id":"420910205000557",
+        "total_dom": 123,
+        "dom_pobreza": 1,
+        "porcentagem": 0.8130081300813009
+    },
+    {"id":"420910205000558",
+        "total_dom": 171,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1695906432748537
+    },
+    {"id":"420910205000559",
+        "total_dom": 45,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000560",
+        "total_dom": 139,
+        "dom_pobreza": 2,
+        "porcentagem": 1.4388489208633095
+    },
+    {"id":"420910205000561",
+        "total_dom": 161,
+        "dom_pobreza": 1,
+        "porcentagem": 0.6211180124223602
+    },
+    {"id":"420910205000562",
+        "total_dom": 176,
+        "dom_pobreza": 3,
+        "porcentagem": 1.7045454545454544
+    },
+    {"id":"420910205000563",
+        "total_dom": 181,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5524861878453038
+    },
+    {"id":"420910205000564",
+        "total_dom": 253,
+        "dom_pobreza": 3,
+        "porcentagem": 1.185770750988142
+    },
+    {"id":"420910205000565",
+        "total_dom": 151,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000566",
+        "total_dom": 214,
+        "dom_pobreza": 2,
+        "porcentagem": 0.9345794392523363
+    },
+    {"id":"420910205000567",
+        "total_dom": 181,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1049723756906076
+    },
+    {"id":"420910205000568",
+        "total_dom": 82,
+        "dom_pobreza": 2,
+        "porcentagem": 2.4390243902439024
+    },
+    {"id":"420910205000569",
+        "total_dom": 183,
+        "dom_pobreza": 3,
+        "porcentagem": 1.639344262295082
+    },
+    {"id":"420910205000570",
+        "total_dom": 173,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5780346820809248
+    },
+    {"id":"420910205000571",
+        "total_dom": 149,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000572",
+        "total_dom": 146,
+        "dom_pobreza": 4,
+        "porcentagem": 2.73972602739726
+    },
+    {"id":"420910205000573",
+        "total_dom": 129,
+        "dom_pobreza": 3,
+        "porcentagem": 2.3255813953488373
+    },
+    {"id":"420910205000574",
+        "total_dom": 149,
+        "dom_pobreza": 9,
+        "porcentagem": 6.0402684563758395
+    },
+    {"id":"420910205000575",
+        "total_dom": 101,
+        "dom_pobreza": 3,
+        "porcentagem": 2.9702970297029703
+    },
+    {"id":"420910205000576",
+        "total_dom": 153,
+        "dom_pobreza": 2,
+        "porcentagem": 1.3071895424836601
+    },
+    {"id":"420910205000577",
+        "total_dom": 206,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000578",
+        "total_dom": 212,
+        "dom_pobreza": 8,
+        "porcentagem": 3.7735849056603774
+    },
+    {"id":"420910205000579",
+        "total_dom": 155,
+        "dom_pobreza": 8,
+        "porcentagem": 5.161290322580645
+    },
+    {"id":"420910205000580",
+        "total_dom": 118,
+        "dom_pobreza": 8,
+        "porcentagem": 6.779661016949152
+    },
+    {"id":"420910205000581",
+        "total_dom": 173,
+        "dom_pobreza": 5,
+        "porcentagem": 2.8901734104046244
+    },
+    {"id":"420910205000582",
+        "total_dom": 158,
+        "dom_pobreza": 4,
+        "porcentagem": 2.5316455696202533
+    },
+    {"id":"420910205000583",
+        "total_dom": 130,
+        "dom_pobreza": 7,
+        "porcentagem": 5.384615384615385
+    },
+    {"id":"420910205000584",
+        "total_dom": 87,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000585",
+        "total_dom": 220,
+        "dom_pobreza": 6,
+        "porcentagem": 2.727272727272727
+    },
+    {"id":"420910205000586",
+        "total_dom": 190,
+        "dom_pobreza": 11,
+        "porcentagem": 5.7894736842105265
+    },
+    {"id":"420910205000587",
+        "total_dom": 97,
+        "dom_pobreza": 2,
+        "porcentagem": 2.0618556701030926
+    },
+    {"id":"420910205000588",
+        "total_dom": 138,
+        "dom_pobreza": 3,
+        "porcentagem": 2.1739130434782608
+    },
+    {"id":"420910205000589",
+        "total_dom": 166,
+        "dom_pobreza": 9,
+        "porcentagem": 5.421686746987952
+    },
+    {"id":"420910205000590",
+        "total_dom": 160,
+        "dom_pobreza": 6,
+        "porcentagem": 3.75
+    },
+    {"id":"420910205000591",
+        "total_dom": 159,
+        "dom_pobreza": 7,
+        "porcentagem": 4.40251572327044
+    },
+    {"id":"420910205000592",
+        "total_dom": 162,
+        "dom_pobreza": 12,
+        "porcentagem": 7.4074074074074066
+    },
+    {"id":"420910205000593",
+        "total_dom": 80,
+        "dom_pobreza": 8,
+        "porcentagem": 10.0
+    },
+    {"id":"420910205000594",
+        "total_dom": 162,
+        "dom_pobreza": 10,
+        "porcentagem": 6.172839506172839
+    },
+    {"id":"420910205000595",
+        "total_dom": 150,
+        "dom_pobreza": 7,
+        "porcentagem": 4.666666666666667
+    },
+    {"id":"420910205000596",
+        "total_dom": 111,
+        "dom_pobreza": 9,
+        "porcentagem": 8.108108108108109
+    },
+    {"id":"420910205000597",
+        "total_dom": 163,
+        "dom_pobreza": 7,
+        "porcentagem": 4.294478527607362
+    },
+    {"id":"420910205000598",
+        "total_dom": 202,
+        "dom_pobreza": 5,
+        "porcentagem": 2.4752475247524752
+    },
+    {"id":"420910205000599",
+        "total_dom": 300,
+        "dom_pobreza": 28,
+        "porcentagem": 9.333333333333334
+    },
+    {"id":"420910205000600",
+        "total_dom": 127,
+        "dom_pobreza": 8,
+        "porcentagem": 6.299212598425196
+    },
+    {"id":"420910205000601",
+        "total_dom": 144,
+        "dom_pobreza": 12,
+        "porcentagem": 8.333333333333332
+    },
+    {"id":"420910205000602",
+        "total_dom": 88,
+        "dom_pobreza": 11,
+        "porcentagem": 12.5
+    },
+    {"id":"420910205000603",
+        "total_dom": 217,
+        "dom_pobreza": 33,
+        "porcentagem": 15.207373271889402
+    },
+    {"id":"420910205000604",
+        "total_dom": 92,
+        "dom_pobreza": 4,
+        "porcentagem": 4.3478260869565215
+    },
+    {"id":"420910205000605",
+        "total_dom": 191,
+        "dom_pobreza": 4,
+        "porcentagem": 2.094240837696335
+    },
+    {"id":"420910205000606",
+        "total_dom": 210,
+        "dom_pobreza": 12,
+        "porcentagem": 5.714285714285714
+    },
+    {"id":"420910205000607",
+        "total_dom": 162,
+        "dom_pobreza": 12,
+        "porcentagem": 7.4074074074074066
+    },
+    {"id":"420910205000608",
+        "total_dom": 0,
+        "dom_pobreza": 0,
+        "porcentagem": 0
+    },
+    {"id":"420910205000609",
+        "total_dom": 218,
+        "dom_pobreza": 19,
+        "porcentagem": 8.715596330275229
+    },
+    {"id":"420910205000610",
+        "total_dom": 163,
+        "dom_pobreza": 23,
+        "porcentagem": 14.11042944785276
+    },
+    {"id":"420910205000611",
+        "total_dom": 11,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000612",
+        "total_dom": 247,
+        "dom_pobreza": 8,
+        "porcentagem": 3.2388663967611335
+    },
+    {"id":"420910205000613",
+        "total_dom": 113,
+        "dom_pobreza": 5,
+        "porcentagem": 4.424778761061947
+    },
+    {"id":"420910205000614",
+        "total_dom": 89,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000615",
+        "total_dom": 129,
+        "dom_pobreza": 4,
+        "porcentagem": 3.10077519379845
+    },
+    {"id":"420910205000616",
+        "total_dom": 206,
+        "dom_pobreza": 10,
+        "porcentagem": 4.854368932038835
+    },
+    {"id":"420910205000617",
+        "total_dom": 128,
+        "dom_pobreza": 1,
+        "porcentagem": 0.78125
+    },
+    {"id":"420910205000618",
+        "total_dom": 150,
+        "dom_pobreza": 2,
+        "porcentagem": 1.3333333333333335
+    },
+    {"id":"420910205000619",
+        "total_dom": 182,
+        "dom_pobreza": 3,
+        "porcentagem": 1.6483516483516485
+    },
+    {"id":"420910205000620",
+        "total_dom": 201,
+        "dom_pobreza": 1,
+        "porcentagem": 0.4975124378109453
+    },
+    {"id":"420910205000621",
+        "total_dom": 177,
+        "dom_pobreza": 3,
+        "porcentagem": 1.694915254237288
+    },
+    {"id":"420910205000622",
+        "total_dom": 279,
+        "dom_pobreza": 6,
+        "porcentagem": 2.1505376344086025
+    },
+    {"id":"420910205000623",
+        "total_dom": 183,
+        "dom_pobreza": 6,
+        "porcentagem": 3.278688524590164
+    },
+    {"id":"420910205000624",
+        "total_dom": 237,
+        "dom_pobreza": 13,
+        "porcentagem": 5.485232067510549
+    },
+    {"id":"420910205000625",
+        "total_dom": 159,
+        "dom_pobreza": 11,
+        "porcentagem": 6.918238993710692
+    },
+    {"id":"420910205000626",
+        "total_dom": 213,
+        "dom_pobreza": 30,
+        "porcentagem": 14.084507042253522
+    },
+    {"id":"420910205000627",
+        "total_dom": 80,
+        "dom_pobreza": 6,
+        "porcentagem": 7.5
+    },
+    {"id":"420910205000628",
+        "total_dom": 90,
+        "dom_pobreza": 5,
+        "porcentagem": 5.555555555555555
+    },
+    {"id":"420910205000629",
+        "total_dom": 119,
+        "dom_pobreza": 3,
+        "porcentagem": 2.5210084033613445
+    },
+    {"id":"420910205000630",
+        "total_dom": 245,
+        "dom_pobreza": 10,
+        "porcentagem": 4.081632653061225
+    },
+    {"id":"420910205000631",
+        "total_dom": 75,
+        "dom_pobreza": 8,
+        "porcentagem": 10.666666666666668
+    },
+    {"id":"420910205000632",
+        "total_dom": 191,
+        "dom_pobreza": 17,
+        "porcentagem": 8.900523560209423
+    },
+    {"id":"420910205000633",
+        "total_dom": 150,
+        "dom_pobreza": 5,
+        "porcentagem": 3.3333333333333335
+    },
+    {"id":"420910205000634",
+        "total_dom": 158,
+        "dom_pobreza": 4,
+        "porcentagem": 2.5316455696202533
+    },
+    {"id":"420910205000635",
+        "total_dom": 217,
+        "dom_pobreza": 17,
+        "porcentagem": 7.834101382488479
+    },
+    {"id":"420910205000636",
+        "total_dom": 235,
+        "dom_pobreza": 9,
+        "porcentagem": 3.829787234042553
+    },
+    {"id":"420910205000637",
+        "total_dom": 89,
+        "dom_pobreza": 1,
+        "porcentagem": 1.1235955056179776
+    },
+    {"id":"420910205000638",
+        "total_dom": 124,
+        "dom_pobreza": 6,
+        "porcentagem": 4.838709677419355
+    },
+    {"id":"420910205000639",
+        "total_dom": 232,
+        "dom_pobreza": 7,
+        "porcentagem": 3.0172413793103448
+    },
+    {"id":"420910205000640",
+        "total_dom": 199,
+        "dom_pobreza": 6,
+        "porcentagem": 3.015075376884422
+    },
+    {"id":"420910205000641",
+        "total_dom": 253,
+        "dom_pobreza": 8,
+        "porcentagem": 3.1620553359683794
+    },
+    {"id":"420910205000642",
+        "total_dom": 230,
+        "dom_pobreza": 12,
+        "porcentagem": 5.217391304347826
+    },
+    {"id":"420910205000643",
+        "total_dom": 185,
+        "dom_pobreza": 3,
+        "porcentagem": 1.6216216216216217
+    },
+    {"id":"420910205000644",
+        "total_dom": 178,
+        "dom_pobreza": 3,
+        "porcentagem": 1.6853932584269662
+    },
+    {"id":"420910205000645",
+        "total_dom": 174,
+        "dom_pobreza": 2,
+        "porcentagem": 1.1494252873563218
+    },
+    {"id":"420910205000646",
+        "total_dom": 0,
+        "dom_pobreza": 0,
+        "porcentagem": 0
+    },
+    {"id":"420910205000647",
+        "total_dom": 222,
+        "dom_pobreza": 11,
+        "porcentagem": 4.954954954954955
+    },
+    {"id":"420910205000648",
+        "total_dom": 238,
+        "dom_pobreza": 1,
+        "porcentagem": 0.42016806722689076
+    },
+    {"id":"420910205000649",
+        "total_dom": 194,
+        "dom_pobreza": 7,
+        "porcentagem": 3.608247422680412
+    },
+    {"id":"420910205000650",
+        "total_dom": 43,
+        "dom_pobreza": 1,
+        "porcentagem": 2.3255813953488373
+    },
+    {"id":"420910205000651",
+        "total_dom": 181,
+        "dom_pobreza": 8,
+        "porcentagem": 4.41988950276243
+    },
+    {"id":"420910205000652",
+        "total_dom": 180,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5555555555555556
+    },
+    {"id":"420910205000653",
+        "total_dom": 229,
+        "dom_pobreza": 3,
+        "porcentagem": 1.3100436681222707
+    },
+    {"id":"420910205000654",
+        "total_dom": 236,
+        "dom_pobreza": 5,
+        "porcentagem": 2.11864406779661
+    },
+    {"id":"420910205000655",
+        "total_dom": 156,
+        "dom_pobreza": 3,
+        "porcentagem": 1.9230769230769231
+    },
+    {"id":"420910205000656",
+        "total_dom": 220,
+        "dom_pobreza": 4,
+        "porcentagem": 1.8181818181818181
+    },
+    {"id":"420910205000657",
+        "total_dom": 163,
+        "dom_pobreza": 2,
+        "porcentagem": 1.2269938650306749
+    },
+    {"id":"420910205000658",
+        "total_dom": 244,
+        "dom_pobreza": 1,
+        "porcentagem": 0.4098360655737705
+    },
+    {"id":"420910205000659",
+        "total_dom": 194,
+        "dom_pobreza": 2,
+        "porcentagem": 1.0309278350515463
+    },
+    {"id":"420910205000660",
+        "total_dom": 213,
+        "dom_pobreza": 8,
+        "porcentagem": 3.755868544600939
+    },
+    {"id":"420910205000661",
+        "total_dom": 335,
+        "dom_pobreza": 3,
+        "porcentagem": 0.8955223880597015
+    },
+    {"id":"420910205000662",
+        "total_dom": 146,
+        "dom_pobreza": 1,
+        "porcentagem": 0.684931506849315
+    },
+    {"id":"420910205000663",
+        "total_dom": 158,
+        "dom_pobreza": 5,
+        "porcentagem": 3.1645569620253164
+    },
+    {"id":"420910205000664",
+        "total_dom": 147,
+        "dom_pobreza": 1,
+        "porcentagem": 0.6802721088435374
+    },
+    {"id":"420910205000665",
+        "total_dom": 232,
+        "dom_pobreza": 6,
+        "porcentagem": 2.586206896551724
+    },
+    {"id":"420910205000666",
+        "total_dom": 92,
+        "dom_pobreza": 5,
+        "porcentagem": 5.434782608695652
+    },
+    {"id":"420910205000667",
+        "total_dom": 238,
+        "dom_pobreza": 12,
+        "porcentagem": 5.042016806722689
+    },
+    {"id":"420910205000668",
+        "total_dom": 235,
+        "dom_pobreza": 31,
+        "porcentagem": 13.191489361702127
+    },
+    {"id":"420910205000669",
+        "total_dom": 233,
+        "dom_pobreza": 12,
+        "porcentagem": 5.150214592274678
+    },
+    {"id":"420910205000670",
+        "total_dom": 201,
+        "dom_pobreza": 14,
+        "porcentagem": 6.965174129353234
+    },
+    {"id":"420910205000671",
+        "total_dom": 155,
+        "dom_pobreza": 10,
+        "porcentagem": 6.451612903225806
+    },
+    {"id":"420910205000672",
+        "total_dom": 263,
+        "dom_pobreza": 20,
+        "porcentagem": 7.604562737642586
+    },
+    {"id":"420910205000673",
+        "total_dom": 150,
+        "dom_pobreza": 7,
+        "porcentagem": 4.666666666666667
+    },
+    {"id":"420910205000674",
+        "total_dom": 221,
+        "dom_pobreza": 7,
+        "porcentagem": 3.167420814479638
+    },
+    {"id":"420910205000675",
+        "total_dom": 203,
+        "dom_pobreza": 17,
+        "porcentagem": 8.374384236453201
+    },
+    {"id":"420910205000676",
+        "total_dom": 206,
+        "dom_pobreza": 9,
+        "porcentagem": 4.368932038834951
+    },
+    {"id":"420910205000677",
+        "total_dom": 141,
+        "dom_pobreza": 2,
+        "porcentagem": 1.4184397163120568
+    },
+    {"id":"420910205000678",
+        "total_dom": 133,
+        "dom_pobreza": 7,
+        "porcentagem": 5.263157894736842
+    },
+    {"id":"420910205000679",
+        "total_dom": 239,
+        "dom_pobreza": 65,
+        "porcentagem": 27.19665271966527
+    },
+    {"id":"420910205000680",
+        "total_dom": 149,
+        "dom_pobreza": 7,
+        "porcentagem": 4.697986577181208
+    },
+    {"id":"420910205000681",
+        "total_dom": 219,
+        "dom_pobreza": 1,
+        "porcentagem": 0.45662100456621
+    },
+    {"id":"420910205000682",
+        "total_dom": 193,
+        "dom_pobreza": 9,
+        "porcentagem": 4.66321243523316
+    },
+    {"id":"420910205000683",
+        "total_dom": 157,
+        "dom_pobreza": 6,
+        "porcentagem": 3.821656050955414
+    },
+    {"id":"420910205000684",
+        "total_dom": 159,
+        "dom_pobreza": 5,
+        "porcentagem": 3.1446540880503147
+    },
+    {"id":"420910205000685",
+        "total_dom": 102,
+        "dom_pobreza": 5,
+        "porcentagem": 4.901960784313726
+    },
+    {"id":"420910205000686",
+        "total_dom": 126,
+        "dom_pobreza": 2,
+        "porcentagem": 1.5873015873015872
+    },
+    {"id":"420910205000687",
+        "total_dom": 207,
+        "dom_pobreza": 8,
+        "porcentagem": 3.864734299516908
+    },
+    {"id":"420910205000688",
+        "total_dom": 140,
+        "dom_pobreza": 3,
+        "porcentagem": 2.142857142857143
+    },
+    {"id":"420910205000689",
+        "total_dom": 152,
+        "dom_pobreza": 17,
+        "porcentagem": 11.18421052631579
+    },
+    {"id":"420910205000690",
+        "total_dom": 157,
+        "dom_pobreza": 34,
+        "porcentagem": 21.656050955414013
+    },
+    {"id":"420910205000691",
+        "total_dom": 167,
+        "dom_pobreza": 18,
+        "porcentagem": 10.778443113772456
+    },
+    {"id":"420910205000692",
+        "total_dom": 170,
+        "dom_pobreza": 10,
+        "porcentagem": 5.88235294117647
+    },
+    {"id":"420910205000693",
+        "total_dom": 148,
+        "dom_pobreza": 8,
+        "porcentagem": 5.405405405405405
+    },
+    {"id":"420910205000694",
+        "total_dom": 263,
+        "dom_pobreza": 2,
+        "porcentagem": 0.7604562737642585
+    },
+    {"id":"420910205000695",
+        "total_dom": 190,
+        "dom_pobreza": 10,
+        "porcentagem": 5.263157894736842
+    },
+    {"id":"420910205000696",
+        "total_dom": 170,
+        "dom_pobreza": 27,
+        "porcentagem": 15.88235294117647
+    },
+    {"id":"420910205000697",
+        "total_dom": 65,
+        "dom_pobreza": 11,
+        "porcentagem": 16.923076923076923
+    },
+    {"id":"420910205000698",
+        "total_dom": 146,
+        "dom_pobreza": 36,
+        "porcentagem": 24.65753424657534
+    },
+    {"id":"420910205000699",
+        "total_dom": 145,
+        "dom_pobreza": 13,
+        "porcentagem": 8.96551724137931
+    },
+    {"id":"420910205000700",
+        "total_dom": 144,
+        "dom_pobreza": 8,
+        "porcentagem": 5.555555555555555
+    },
+    {"id":"420910205000701",
+        "total_dom": 158,
+        "dom_pobreza": 21,
+        "porcentagem": 13.291139240506327
+    },
+    {"id":"420910205000702",
+        "total_dom": 165,
+        "dom_pobreza": 35,
+        "porcentagem": 21.21212121212121
+    },
+    {"id":"420910205000703",
+        "total_dom": 238,
+        "dom_pobreza": 23,
+        "porcentagem": 9.663865546218489
+    },
+    {"id":"420910205000704",
+        "total_dom": 145,
+        "dom_pobreza": 3,
+        "porcentagem": 2.0689655172413794
+    },
+    {"id":"420910205000705",
+        "total_dom": 131,
+        "dom_pobreza": 12,
+        "porcentagem": 9.16030534351145
+    },
+    {"id":"420910205000706",
+        "total_dom": 142,
+        "dom_pobreza": 17,
+        "porcentagem": 11.971830985915492
+    },
+    {"id":"420910205000707",
+        "total_dom": 129,
+        "dom_pobreza": 6,
+        "porcentagem": 4.651162790697675
+    },
+    {"id":"420910205000708",
+        "total_dom": 170,
+        "dom_pobreza": 27,
+        "porcentagem": 15.88235294117647
+    },
+    {"id":"420910205000709",
+        "total_dom": 186,
+        "dom_pobreza": 34,
+        "porcentagem": 18.27956989247312
+    },
+    {"id":"420910205000710",
+        "total_dom": 195,
+        "dom_pobreza": 17,
+        "porcentagem": 8.717948717948717
+    },
+    {"id":"420910205000711",
+        "total_dom": 213,
+        "dom_pobreza": 38,
+        "porcentagem": 17.84037558685446
+    },
+    {"id":"420910205000712",
+        "total_dom": 121,
+        "dom_pobreza": 39,
+        "porcentagem": 32.231404958677686
+    },
+    {"id":"420910205000713",
+        "total_dom": 220,
+        "dom_pobreza": 21,
+        "porcentagem": 9.545454545454547
+    },
+    {"id":"420910205000714",
+        "total_dom": 260,
+        "dom_pobreza": 57,
+        "porcentagem": 21.923076923076923
+    },
+    {"id":"420910205000715",
+        "total_dom": 164,
+        "dom_pobreza": 18,
+        "porcentagem": 10.975609756097562
+    },
+    {"id":"420910205000716",
+        "total_dom": 247,
+        "dom_pobreza": 12,
+        "porcentagem": 4.8582995951417
+    },
+    {"id":"420910205000717",
+        "total_dom": 223,
+        "dom_pobreza": 30,
+        "porcentagem": 13.452914798206278
+    },
+    {"id":"420910205000718",
+        "total_dom": 186,
+        "dom_pobreza": 19,
+        "porcentagem": 10.21505376344086
+    },
+    {"id":"420910205000719",
+        "total_dom": 171,
+        "dom_pobreza": 13,
+        "porcentagem": 7.602339181286549
+    },
+    {"id":"420910205000720",
+        "total_dom": 259,
+        "dom_pobreza": 36,
+        "porcentagem": 13.8996138996139
+    },
+    {"id":"420910205000721",
+        "total_dom": 171,
+        "dom_pobreza": 27,
+        "porcentagem": 15.789473684210526
+    },
+    {"id":"420910205000722",
+        "total_dom": 227,
+        "dom_pobreza": 18,
+        "porcentagem": 7.929515418502203
+    },
+    {"id":"420910205000723",
+        "total_dom": 167,
+        "dom_pobreza": 34,
+        "porcentagem": 20.35928143712575
+    },
+    {"id":"420910205000724",
+        "total_dom": 226,
+        "dom_pobreza": 28,
+        "porcentagem": 12.389380530973451
+    },
+    {"id":"420910205000725",
+        "total_dom": 104,
+        "dom_pobreza": 28,
+        "porcentagem": 26.923076923076923
+    },
+    {"id":"420910205000726",
+        "total_dom": 128,
+        "dom_pobreza": 51,
+        "porcentagem": 39.84375
+    },
+    {"id":"420910205000727",
+        "total_dom": 234,
+        "dom_pobreza": 61,
+        "porcentagem": 26.06837606837607
+    },
+    {"id":"420910205000728",
+        "total_dom": 134,
+        "dom_pobreza": 25,
+        "porcentagem": 18.65671641791045
+    },
+    {"id":"420910205000729",
+        "total_dom": 143,
+        "dom_pobreza": 39,
+        "porcentagem": 27.27272727272727
+    },
+    {"id":"420910205000730",
+        "total_dom": 191,
+        "dom_pobreza": 87,
+        "porcentagem": 45.54973821989529
+    },
+    {"id":"420910205000731",
+        "total_dom": 185,
+        "dom_pobreza": 21,
+        "porcentagem": 11.351351351351353
+    },
+    {"id":"420910205000732",
+        "total_dom": 156,
+        "dom_pobreza": 59,
+        "porcentagem": 37.82051282051282
+    },
+    {"id":"420910205000733",
+        "total_dom": 222,
+        "dom_pobreza": 64,
+        "porcentagem": 28.82882882882883
+    },
+    {"id":"420910205000735",
+        "total_dom": 41,
+        "dom_pobreza": 9,
+        "porcentagem": 21.951219512195124
+    },
+    {"id":"420910205000736",
+        "total_dom": 50,
+        "dom_pobreza": 15,
+        "porcentagem": 30.0
+    },
+    {"id":"420910205000737",
+        "total_dom": 195,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910205000738",
+        "total_dom": 136,
+        "dom_pobreza": 28,
+        "porcentagem": 20.588235294117645
+    },
+    {"id":"420910205000739",
+        "total_dom": 67,
+        "dom_pobreza": 22,
+        "porcentagem": 32.83582089552239
+    },
+    {"id":"420910205000740",
+        "total_dom": 233,
+        "dom_pobreza": 11,
+        "porcentagem": 4.721030042918455
+    },
+    {"id":"420910210000001",
+        "total_dom": 173,
+        "dom_pobreza": 1,
+        "porcentagem": 0.5780346820809248
+    },
+    {"id":"420910210000002",
+        "total_dom": 8,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910210000003",
+        "total_dom": 241,
+        "dom_pobreza": 21,
+        "porcentagem": 8.71369294605809
+    },
+    {"id":"420910210000004",
+        "total_dom": 281,
+        "dom_pobreza": 16,
+        "porcentagem": 5.6939501779359425
+    },
+    {"id":"420910210000005",
+        "total_dom": 239,
+        "dom_pobreza": 7,
+        "porcentagem": 2.928870292887029
+    },
+    {"id":"420910210000006",
+        "total_dom": 27,
+        "dom_pobreza": 3,
+        "porcentagem": 11.11111111111111
+    },
+    {"id":"420910210000007",
+        "total_dom": 276,
+        "dom_pobreza": 12,
+        "porcentagem": 4.3478260869565215
+    },
+    {"id":"420910210000008",
+        "total_dom": 23,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910210000009",
+        "total_dom": 172,
+        "dom_pobreza": 5,
+        "porcentagem": 2.9069767441860463
+    },
+    {"id":"420910210000010",
+        "total_dom": 156,
+        "dom_pobreza": 8,
+        "porcentagem": 5.128205128205128
+    },
+    {"id":"420910210000011",
+        "total_dom": 91,
+        "dom_pobreza": 9,
+        "porcentagem": 9.89010989010989
+    },
+    {"id":"420910210000012",
+        "total_dom": 342,
+        "dom_pobreza": 31,
+        "porcentagem": 9.064327485380117
+    },
+    {"id":"420910210000013",
+        "total_dom": 251,
+        "dom_pobreza": 21,
+        "porcentagem": 8.366533864541832
+    },
+    {"id":"420910210000014",
+        "total_dom": 406,
+        "dom_pobreza": 50,
+        "porcentagem": 12.31527093596059
+    },
+    {"id":"420910210000015",
+        "total_dom": 274,
+        "dom_pobreza": 22,
+        "porcentagem": 8.02919708029197
+    },
+    {"id":"420910210000016",
+        "total_dom": 146,
+        "dom_pobreza": 7,
+        "porcentagem": 4.794520547945205
+    },
+    {"id":"420910210000017",
+        "total_dom": 358,
+        "dom_pobreza": 47,
+        "porcentagem": 13.128491620111731
+    },
+    {"id":"420910210000018",
+        "total_dom": 108,
+        "dom_pobreza": 10,
+        "porcentagem": 9.25925925925926
+    },
+    {"id":"420910210000019",
+        "total_dom": 271,
+        "dom_pobreza": 11,
+        "porcentagem": 4.059040590405904
+    },
+    {"id":"420910210000020",
+        "total_dom": 158,
+        "dom_pobreza": 8,
+        "porcentagem": 5.063291139240507
+    },
+    {"id":"420910210000021",
+        "total_dom": 133,
+        "dom_pobreza": 9,
+        "porcentagem": 6.7669172932330826
+    },
+    {"id":"420910210000022",
+        "total_dom": 98,
+        "dom_pobreza": 20,
+        "porcentagem": 20.408163265306122
+    },
+    {"id":"420910210000023",
+        "total_dom": 213,
+        "dom_pobreza": 23,
+        "porcentagem": 10.7981220657277
+    },
+    {"id":"420910210000024",
+        "total_dom": 79,
+        "dom_pobreza": 9,
+        "porcentagem": 11.39240506329114
+    },
+    {"id":"420910210000025",
+        "total_dom": 234,
+        "dom_pobreza": 19,
+        "porcentagem": 8.11965811965812
+    },
+    {"id":"420910210000026",
+        "total_dom": 172,
+        "dom_pobreza": 19,
+        "porcentagem": 11.046511627906977
+    },
+    {"id":"420910210000027",
+        "total_dom": 235,
+        "dom_pobreza": 27,
+        "porcentagem": 11.48936170212766
+    },
+    {"id":"420910210000028",
+        "total_dom": 145,
+        "dom_pobreza": 4,
+        "porcentagem": 2.7586206896551726
+    },
+    {"id":"420910210000029",
+        "total_dom": 22,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910210000030",
+        "total_dom": 85,
+        "dom_pobreza": 6,
+        "porcentagem": 7.0588235294117645
+    },
+    {"id":"420910210000031",
+        "total_dom": 5,
+        "dom_pobreza": 0,
+        "porcentagem": 0.0
+    },
+    {"id":"420910210000032",
+        "total_dom": 81,
+        "dom_pobreza": 3,
+        "porcentagem": 3.7037037037037033
+    },
+    {"id":"420910210000033",
+        "total_dom": 205,
+        "dom_pobreza": 24,
+        "porcentagem": 11.707317073170733
+    },
+    {"id":"420910210000034",
+        "total_dom": 44,
+        "dom_pobreza": 16,
+        "porcentagem": 36.36363636363637
+    },
+    {"id":"420910210000035",
+        "total_dom": 129,
+        "dom_pobreza": 38,
+        "porcentagem": 29.457364341085274
+    },
+    {"id":"420910210000036",
+        "total_dom": 58,
+        "dom_pobreza": 14,
+        "porcentagem": 24.137931034482758
+    },
+    {"id":"420910210000037",
+        "total_dom": 65,
+        "dom_pobreza": 5,
+        "porcentagem": 7.6923076923076925
+    }
+]
